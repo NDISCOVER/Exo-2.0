@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ertick-cy" format="2">
+  <advance width="625"/>
+  <unicode hex="048E"/>
+  <outline>
+    <contour>
+      <point x="333" y="698" type="curve" smooth="yes"/>
+      <point x="230" y="698"/>
+      <point x="182" y="697"/>
+      <point x="112" y="690" type="curve"/>
+      <point x="126" y="672" type="line"/>
+      <point x="153" y="674"/>
+      <point x="232" y="675"/>
+      <point x="333" y="675" type="curve" smooth="yes"/>
+      <point x="460" y="675"/>
+      <point x="506" y="638"/>
+      <point x="506" y="495" type="curve" smooth="yes"/>
+      <point x="506" y="352"/>
+      <point x="460" y="317"/>
+      <point x="333" y="315" type="curve" smooth="yes"/>
+      <point x="264" y="315"/>
+      <point x="190" y="315"/>
+      <point x="125" y="315" type="curve"/>
+      <point x="122" y="297" type="line"/>
+      <point x="144" y="295"/>
+      <point x="227" y="292"/>
+      <point x="333" y="292" type="curve" smooth="yes"/>
+      <point x="479" y="292"/>
+      <point x="532" y="335"/>
+      <point x="532" y="495" type="curve" smooth="yes"/>
+      <point x="532" y="653"/>
+      <point x="479" y="698"/>
+    </contour>
+    <contour>
+      <point x="137" y="690" type="line"/>
+      <point x="112" y="690" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="431" type="line"/>
+      <point x="558" y="242" type="line"/>
+      <point x="573" y="258" type="line"/>
+      <point x="384" y="447" type="line"/>
+    </contour>
+  </outline>
+</glyph>

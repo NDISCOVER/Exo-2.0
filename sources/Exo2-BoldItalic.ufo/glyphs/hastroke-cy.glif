@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="618"/>
+  <unicode hex="04FF"/>
+  <outline>
+    <contour>
+      <point x="588" y="309" type="line"/>
+      <point x="48" y="309" type="line"/>
+      <point x="30" y="209" type="line"/>
+      <point x="570" y="209" type="line"/>
+    </contour>
+    <component base="ha-cy" xOffset="6"/>
+  </outline>
+</glyph>

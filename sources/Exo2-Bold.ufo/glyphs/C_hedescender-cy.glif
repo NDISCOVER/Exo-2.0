@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescender-cy" format="2">
+  <advance width="704"/>
+  <unicode hex="04B6"/>
+  <outline>
+    <contour>
+      <point x="230" y="216" type="curve" smooth="yes"/>
+      <point x="291" y="216"/>
+      <point x="384" y="240"/>
+      <point x="455" y="281" type="curve"/>
+      <point x="432" y="412" type="line"/>
+      <point x="376" y="393"/>
+      <point x="341" y="393"/>
+      <point x="311" y="393" type="curve" smooth="yes"/>
+      <point x="262" y="393"/>
+      <point x="252" y="410"/>
+      <point x="252" y="443" type="curve" smooth="yes"/>
+      <point x="252" y="690" type="line"/>
+      <point x="35" y="690" type="line"/>
+      <point x="35" y="396" type="line" smooth="yes"/>
+      <point x="35" y="272"/>
+      <point x="95" y="216"/>
+    </contour>
+    <contour>
+      <point x="537" y="-151" type="line"/>
+      <point x="694" y="-151" type="line"/>
+      <point x="709" y="7" type="line"/>
+      <point x="537" y="7" type="line"/>
+    </contour>
+    <contour>
+      <point x="475" y="0" type="line"/>
+      <point x="709" y="0" type="line"/>
+      <point x="709" y="142" type="line"/>
+      <point x="475" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="0" type="line"/>
+      <point x="633" y="0" type="line"/>
+      <point x="633" y="690" type="line"/>
+      <point x="416" y="690" type="line"/>
+    </contour>
+  </outline>
+</glyph>

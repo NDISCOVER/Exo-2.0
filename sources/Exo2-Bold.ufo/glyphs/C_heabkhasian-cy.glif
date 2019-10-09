@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheabkhasian-cy" format="2">
+  <advance width="772"/>
+  <unicode hex="04BC"/>
+  <outline>
+    <contour>
+      <point x="189" y="283" type="curve" smooth="yes"/>
+      <point x="510" y="283" type="line" smooth="yes"/>
+      <point x="683" y="283"/>
+      <point x="755" y="331"/>
+      <point x="755" y="491" type="curve" smooth="yes"/>
+      <point x="755" y="648"/>
+      <point x="681" y="703"/>
+      <point x="492" y="703" type="curve" smooth="yes"/>
+      <point x="276" y="703"/>
+      <point x="177" y="631"/>
+      <point x="177" y="339" type="curve" smooth="yes"/>
+      <point x="177" y="94"/>
+      <point x="247" y="-12"/>
+      <point x="497" y="-12" type="curve" smooth="yes"/>
+      <point x="603" y="-12"/>
+      <point x="690" y="7"/>
+      <point x="733" y="23" type="curve"/>
+      <point x="714" y="182" type="line"/>
+      <point x="645" y="173"/>
+      <point x="575" y="172"/>
+      <point x="536" y="172" type="curve" smooth="yes"/>
+      <point x="426" y="172"/>
+      <point x="405" y="180"/>
+      <point x="405" y="344" type="curve" smooth="yes"/>
+      <point x="405" y="495"/>
+      <point x="418" y="531"/>
+      <point x="486" y="531" type="curve" smooth="yes"/>
+      <point x="538" y="531"/>
+      <point x="555" y="512"/>
+      <point x="555" y="473" type="curve" smooth="yes"/>
+      <point x="555" y="430"/>
+      <point x="535" y="413"/>
+      <point x="482" y="413" type="curve" smooth="yes"/>
+      <point x="187" y="413" type="line" smooth="yes"/>
+      <point x="129" y="413"/>
+      <point x="104" y="432"/>
+      <point x="118" y="495" type="curve"/>
+      <point x="-30" y="495" type="line"/>
+      <point x="-53" y="351"/>
+      <point x="10" y="283"/>
+    </contour>
+  </outline>
+</glyph>

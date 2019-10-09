@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <outline>
+    <contour>
+      <point x="112" y="-162" type="line"/>
+      <point x="242" y="-162"/>
+      <point x="305" y="-98"/>
+      <point x="305" y="0" type="curve" smooth="yes"/>
+      <point x="305" y="94" type="line"/>
+      <point x="227" y="94" type="line"/>
+      <point x="227" y="530" type="line" smooth="yes"/>
+      <point x="227" y="582"/>
+      <point x="242" y="597"/>
+      <point x="289" y="597" type="curve" smooth="yes"/>
+      <point x="533" y="597" type="line"/>
+      <point x="538" y="683" type="line"/>
+      <point x="450" y="692"/>
+      <point x="347" y="692"/>
+      <point x="251" y="692" type="curve" smooth="yes"/>
+      <point x="173" y="692"/>
+      <point x="116" y="635"/>
+      <point x="116" y="551" type="curve" smooth="yes"/>
+      <point x="116" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="-5" type="line" smooth="yes"/>
+      <point x="214" y="-58"/>
+      <point x="178" y="-77"/>
+      <point x="112" y="-77" type="curve"/>
+    </contour>
+    <contour>
+      <point x="2" y="328" type="line"/>
+      <point x="432" y="328" type="line"/>
+      <point x="432" y="385" type="line"/>
+      <point x="2" y="385" type="line"/>
+    </contour>
+  </outline>
+</glyph>

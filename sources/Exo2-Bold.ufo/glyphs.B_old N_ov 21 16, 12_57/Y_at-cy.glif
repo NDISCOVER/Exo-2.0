@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yat-cy" format="2">
+  <advance width="719"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="20" y="507" type="line"/>
+      <point x="561" y="507" type="line"/>
+      <point x="561" y="627" type="line"/>
+      <point x="20" y="627" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="85"/>
+  </outline>
+</glyph>

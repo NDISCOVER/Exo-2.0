@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.BRACKET.144" format="2">
+  <advance width="616"/>
+  <outline>
+    <contour>
+      <point x="293" y="172" type="line"/>
+      <point x="219" y="205" type="line"/>
+      <point x="157" y="33" type="line"/>
+      <point x="234" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="423" type="line"/>
+      <point x="372" y="390" type="line"/>
+      <point x="429" y="553" type="line"/>
+      <point x="353" y="579" type="line"/>
+    </contour>
+    <component base="equal" xOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Regular [144]</string>
+    </dict>
+  </lib>
+</glyph>

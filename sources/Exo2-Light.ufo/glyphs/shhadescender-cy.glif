@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shhadescender-cy" format="2">
+  <advance width="569"/>
+  <unicode hex="0527"/>
+  <outline>
+    <contour>
+      <point x="531" y="21" type="line"/>
+      <point x="465" y="21" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="531" y="5" type="line"/>
+      <point x="508" y="5" type="line"/>
+      <point x="514" y="-143" type="line"/>
+      <point x="531" y="-143" type="line"/>
+    </contour>
+    <component base="shha-cy"/>
+  </outline>
+</glyph>

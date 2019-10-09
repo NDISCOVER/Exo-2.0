@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>700</integer>
+    <key>capHeight</key>
+    <integer>690</integer>
+    <key>copyright</key>
+    <string>Copyright 2013 The Exo 2 Project Authors (https://github.com/NDISCOVER/Exo-2.0)</string>
+    <key>descender</key>
+    <integer>-210</integer>
+    <key>familyName</key>
+    <string>Exo 2</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>-8</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2013/04/26 10:48:50</string>
+    <key>openTypeHheaAscender</key>
+    <integer>999</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-201</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Natanael Gama</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>www.ndiscovered.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Natanael Gama</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>www.ndiscovered.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>999</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-201</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1158</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>311</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-12</integer>
+      <integer>0</integer>
+      <integer>480</integer>
+      <integer>492</integer>
+      <integer>510</integer>
+      <integer>522</integer>
+      <integer>690</integer>
+      <integer>702</integer>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-222</integer>
+      <integer>-210</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>24</integer>
+      <integer>25</integer>
+      <integer>25</integer>
+      <integer>26</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>22</integer>
+      <integer>22</integer>
+      <integer>23</integer>
+      <integer>23</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleName</key>
+    <string>Light Italic</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>100</integer>
+    <key>xHeight</key>
+    <integer>480</integer>
+  </dict>
+</plist>

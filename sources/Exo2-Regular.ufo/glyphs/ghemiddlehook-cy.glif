@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghemiddlehook-cy" format="2">
+  <advance width="540"/>
+  <unicode hex="0495"/>
+  <outline>
+    <contour>
+      <point x="185" y="493" type="curve" smooth="yes"/>
+      <point x="109" y="493"/>
+      <point x="71" y="455"/>
+      <point x="71" y="382" type="curve" smooth="yes"/>
+      <point x="71" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="353" type="line" smooth="yes"/>
+      <point x="178" y="391"/>
+      <point x="194" y="407"/>
+      <point x="231" y="407" type="curve" smooth="yes"/>
+      <point x="418" y="407" type="line"/>
+      <point x="422" y="483" type="line"/>
+      <point x="350" y="493"/>
+      <point x="264" y="493"/>
+    </contour>
+    <contour>
+      <point x="259" y="-207" type="line"/>
+      <point x="387" y="-185"/>
+      <point x="505" y="-132"/>
+      <point x="505" y="83" type="curve" smooth="yes"/>
+      <point x="505" y="259"/>
+      <point x="420" y="291"/>
+      <point x="340" y="291" type="curve" smooth="yes"/>
+      <point x="283" y="291"/>
+      <point x="219" y="275"/>
+      <point x="155" y="226" type="curve"/>
+      <point x="165" y="157" type="line"/>
+      <point x="224" y="191"/>
+      <point x="258" y="201"/>
+      <point x="308" y="201" type="curve" smooth="yes"/>
+      <point x="363" y="201"/>
+      <point x="397" y="188"/>
+      <point x="397" y="80" type="curve" smooth="yes"/>
+      <point x="397" y="-50"/>
+      <point x="352" y="-107"/>
+      <point x="237" y="-130" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

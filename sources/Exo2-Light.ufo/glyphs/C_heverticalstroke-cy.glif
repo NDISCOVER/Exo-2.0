@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="599"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <contour>
+      <point x="203" y="268" type="curve" smooth="yes"/>
+      <point x="294" y="268"/>
+      <point x="382" y="291"/>
+      <point x="482" y="358" type="curve"/>
+      <point x="482" y="381" type="line"/>
+      <point x="375" y="314"/>
+      <point x="307" y="291"/>
+      <point x="208" y="291" type="curve" smooth="yes"/>
+      <point x="127" y="291"/>
+      <point x="90" y="330"/>
+      <point x="90" y="416" type="curve" smooth="yes"/>
+      <point x="90" y="690" type="line"/>
+      <point x="65" y="690" type="line"/>
+      <point x="65" y="413" type="line" smooth="yes"/>
+      <point x="65" y="316"/>
+      <point x="110" y="268"/>
+    </contour>
+    <contour>
+      <point x="272" y="120" type="line"/>
+      <point x="292" y="120" type="line"/>
+      <point x="292" y="501" type="line"/>
+      <point x="272" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="471" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="690" type="line"/>
+      <point x="471" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

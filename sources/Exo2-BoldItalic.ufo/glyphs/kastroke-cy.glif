@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kastroke-cy" format="2">
+  <advance width="594"/>
+  <unicode hex="049F"/>
+  <outline>
+    <contour>
+      <point x="592" y="500" type="curve"/>
+      <point x="380" y="500" type="line"/>
+      <point x="314" y="322"/>
+      <point x="319" y="325"/>
+      <point x="254" y="325" type="curve"/>
+      <point x="239" y="191" type="line"/>
+      <point x="299" y="191"/>
+      <point x="294" y="213"/>
+      <point x="321" y="0" type="curve"/>
+      <point x="539" y="0" type="line"/>
+      <point x="503" y="254"/>
+      <point x="507" y="238"/>
+      <point x="389" y="257" type="curve"/>
+      <point x="389" y="263" type="line"/>
+      <point x="512" y="281"/>
+      <point x="493" y="272"/>
+    </contour>
+    <contour>
+      <point x="303" y="690" type="line"/>
+      <point x="94" y="690" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="228" y="152" type="line" smooth="yes"/>
+      <point x="232" y="183"/>
+      <point x="225" y="229"/>
+      <point x="213" y="262" type="curve"/>
+      <point x="239" y="299"/>
+      <point x="256" y="350"/>
+      <point x="261" y="391" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="300" y="325" type="line"/>
+      <point x="203" y="325" type="line"/>
+      <point x="184" y="191" type="line"/>
+      <point x="281" y="191" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="632" type="line"/>
+      <point x="24" y="632" type="line"/>
+      <point x="10" y="532" type="line"/>
+      <point x="433" y="532" type="line"/>
+    </contour>
+  </outline>
+</glyph>
