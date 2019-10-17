@@ -126,5 +126,9 @@
       <string>Bold May 29 13, 11:13</string>
       <string>glyphs.B_old M_ay 29 13, 11_13</string>
     </array>
+    <array>
+      <string>background</string>
+      <string>glyphs.background</string>
+    </array>
   </array>
 </plist>

@@ -10,10 +10,10 @@
       <point x="497" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="497" y="7" type="line"/>
-      <point x="324" y="7" type="line"/>
       <point x="340" y="-151" type="line"/>
       <point x="497" y="-151" type="line"/>
+      <point x="497" y="7" type="line"/>
+      <point x="324" y="7" type="line"/>
     </contour>
     <component base="Te-cy"/>
   </outline>

@@ -4,13 +4,13 @@
   <unicode hex="04C6"/>
   <outline>
     <contour>
+      <point x="426" y="20" type="line"/>
+      <point x="426" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
       <point x="440" y="-143" type="line"/>
       <point x="459" y="-143" type="line"/>
       <point x="495" y="1" type="line"/>
       <point x="495" y="20" type="line"/>
-      <point x="426" y="20" type="line"/>
-      <point x="426" y="0" type="line"/>
-      <point x="470" y="0" type="line"/>
     </contour>
     <component base="el-cy"/>
   </outline>

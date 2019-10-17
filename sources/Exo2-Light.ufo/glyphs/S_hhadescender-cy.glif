@@ -4,16 +4,16 @@
   <unicode hex="0526"/>
   <outline>
     <contour>
-      <point x="601" y="7" type="line"/>
-      <point x="577" y="7" type="line"/>
-      <point x="583" y="-151" type="line"/>
-      <point x="601" y="-151" type="line"/>
-    </contour>
-    <contour>
       <point x="601" y="22" type="line"/>
       <point x="509" y="22" type="line"/>
       <point x="509" y="0" type="line"/>
       <point x="601" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="601" y="7" type="line"/>
+      <point x="577" y="7" type="line"/>
+      <point x="583" y="-151" type="line"/>
+      <point x="601" y="-151" type="line"/>
     </contour>
     <component base="Shha-cy"/>
   </outline>

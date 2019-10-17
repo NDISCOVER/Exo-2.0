@@ -4,16 +4,16 @@
   <unicode hex="0524"/>
   <outline>
     <contour>
-      <point x="635" y="7" type="line"/>
-      <point x="611" y="7" type="line"/>
-      <point x="617" y="-151" type="line"/>
-      <point x="635" y="-151" type="line"/>
-    </contour>
-    <contour>
       <point x="635" y="22" type="line"/>
       <point x="533" y="22" type="line"/>
       <point x="533" y="0" type="line"/>
       <point x="635" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="7" type="line"/>
+      <point x="611" y="7" type="line"/>
+      <point x="617" y="-151" type="line"/>
+      <point x="635" y="-151" type="line"/>
     </contour>
     <component base="Pe-cy"/>
   </outline>

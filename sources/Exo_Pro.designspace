@@ -14,21 +14,21 @@
     </axis>
   </axes>
   <rules>
-    <rule name="BRACKET.144.214">
+    <rule name="rvrn">
       <conditionset>
         <condition name="Weight" minimum="144" maximum="214"/>
       </conditionset>
-      <sub name="cent" with="cent.BRACKET.144"/>
-      <sub name="dollar" with="dollar.BRACKET.144"/>
-      <sub name="eth" with="eth.BRACKET.144"/>
-      <sub name="euro" with="euro.BRACKET.144"/>
-      <sub name="naira" with="naira.BRACKET.144"/>
-      <sub name="notequal" with="notequal.BRACKET.144"/>
-      <sub name="oslash" with="oslash.BRACKET.144"/>
-      <sub name="peseta" with="peseta.BRACKET.144"/>
-      <sub name="peso" with="peso.BRACKET.144"/>
-      <sub name="won" with="won.BRACKET.144"/>
-      <sub name="yen" with="yen.BRACKET.144"/>
+      <sub name="cent" with="cent.rvrn"/>
+      <sub name="dollar" with="dollar.rvrn"/>
+      <sub name="eth" with="eth.rvrn"/>
+      <sub name="euro" with="euro.rvrn"/>
+      <sub name="naira" with="naira.rvrn"/>
+      <sub name="notequal" with="notequal.rvrn"/>
+      <sub name="oslash" with="oslash.rvrn"/>
+      <sub name="peseta" with="peseta.rvrn"/>
+      <sub name="peso" with="peso.rvrn"/>
+      <sub name="won" with="won.rvrn"/>
+      <sub name="yen" with="yen.rvrn"/>
     </rule>
   </rules>
   <sources>

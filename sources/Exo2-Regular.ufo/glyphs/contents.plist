@@ -870,8 +870,8 @@
     <string>cedillacomb.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
-    <key>cent.BRACKET.144</key>
-    <string>cent.B_R_A_C_K_E_T_.144.glif</string>
+    <key>cent.rvrn</key>
+    <string>cent.rvrn.glif</string>
     <key>che-cy</key>
     <string>che-cy.glif</string>
     <key>cheabkhasian-cy</key>
@@ -952,8 +952,8 @@
     <string>dlinebelow.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
-    <key>dollar.BRACKET.144</key>
-    <string>dollar.B_R_A_C_K_E_T_.144.glif</string>
+    <key>dollar.rvrn</key>
+    <string>dollar.rvrn.glif</string>
     <key>dong</key>
     <string>dong.glif</string>
     <key>dotaccent</key>
@@ -1096,14 +1096,14 @@
     <string>estimated.glif</string>
     <key>eth</key>
     <string>eth.glif</string>
-    <key>eth.BRACKET.144</key>
-    <string>eth.B_R_A_C_K_E_T_.144.glif</string>
+    <key>eth.rvrn</key>
+    <string>eth.rvrn.glif</string>
     <key>etilde</key>
     <string>etilde.glif</string>
     <key>euro</key>
     <string>euro.glif</string>
-    <key>euro.BRACKET.144</key>
-    <string>euro.B_R_A_C_K_E_T_.144.glif</string>
+    <key>euro.rvrn</key>
+    <string>euro.rvrn.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>exclamdown</key>
@@ -1436,8 +1436,8 @@
     <string>nacute.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
-    <key>naira.BRACKET.144</key>
-    <string>naira.B_R_A_C_K_E_T_.144.glif</string>
+    <key>naira.rvrn</key>
+    <string>naira.rvrn.glif</string>
     <key>nbspace</key>
     <string>nbspace.glif</string>
     <key>ncaron</key>
@@ -1476,8 +1476,8 @@
     <string>nlinebelow.glif</string>
     <key>notequal</key>
     <string>notequal.glif</string>
-    <key>notequal.BRACKET.144</key>
-    <string>notequal.B_R_A_C_K_E_T_.144.glif</string>
+    <key>notequal.rvrn</key>
+    <string>notequal.rvrn.glif</string>
     <key>ntilde</key>
     <string>ntilde.glif</string>
     <key>numbersign</key>
@@ -1584,8 +1584,8 @@
     <string>ordmasculine.glif</string>
     <key>oslash</key>
     <string>oslash.glif</string>
-    <key>oslash.BRACKET.144</key>
-    <string>oslash.B_R_A_C_K_E_T_.144.glif</string>
+    <key>oslash.rvrn</key>
+    <string>oslash.rvrn.glif</string>
     <key>oslashacute</key>
     <string>oslashacute.glif</string>
     <key>otilde</key>
@@ -1626,12 +1626,12 @@
     <string>perthousand.glif</string>
     <key>peseta</key>
     <string>peseta.glif</string>
-    <key>peseta.BRACKET.144</key>
-    <string>peseta.B_R_A_C_K_E_T_.144.glif</string>
+    <key>peseta.rvrn</key>
+    <string>peseta.rvrn.glif</string>
     <key>peso</key>
     <string>peso.glif</string>
-    <key>peso.BRACKET.144</key>
-    <string>peso.B_R_A_C_K_E_T_.144.glif</string>
+    <key>peso.rvrn</key>
+    <string>peso.rvrn.glif</string>
     <key>pi</key>
     <string>pi.glif</string>
     <key>plus</key>
@@ -1974,8 +1974,8 @@
     <string>wgrave.glif</string>
     <key>won</key>
     <string>won.glif</string>
-    <key>won.BRACKET.144</key>
-    <string>won.B_R_A_C_K_E_T_.144.glif</string>
+    <key>won.rvrn</key>
+    <string>won.rvrn.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>y</key>
@@ -1994,8 +1994,8 @@
     <string>ydotbelow.glif</string>
     <key>yen</key>
     <string>yen.glif</string>
-    <key>yen.BRACKET.144</key>
-    <string>yen.B_R_A_C_K_E_T_.144.glif</string>
+    <key>yen.rvrn</key>
+    <string>yen.rvrn.glif</string>
     <key>yeru-cy</key>
     <string>yeru-cy.glif</string>
     <key>yerudieresis-cy</key>

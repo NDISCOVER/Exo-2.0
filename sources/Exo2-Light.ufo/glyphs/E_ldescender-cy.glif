@@ -4,16 +4,16 @@
   <unicode hex="052E"/>
   <outline>
     <contour>
-      <point x="606" y="7" type="line"/>
-      <point x="582" y="7" type="line"/>
-      <point x="588" y="-151" type="line"/>
-      <point x="606" y="-151" type="line"/>
-    </contour>
-    <contour>
       <point x="606" y="22" type="line"/>
       <point x="504" y="22" type="line"/>
       <point x="504" y="0" type="line"/>
       <point x="606" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="7" type="line"/>
+      <point x="582" y="7" type="line"/>
+      <point x="588" y="-151" type="line"/>
+      <point x="606" y="-151" type="line"/>
     </contour>
     <component base="El-cy"/>
   </outline>

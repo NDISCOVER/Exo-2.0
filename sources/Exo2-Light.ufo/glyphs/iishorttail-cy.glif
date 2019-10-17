@@ -4,13 +4,13 @@
   <unicode hex="048B"/>
   <outline>
     <contour>
-      <point x="554" y="3" type="line"/>
-      <point x="554" y="22" type="line"/>
       <point x="465" y="22" type="line"/>
       <point x="465" y="0" type="line"/>
       <point x="529" y="0" type="line"/>
       <point x="499" y="-144" type="line"/>
       <point x="518" y="-144" type="line"/>
+      <point x="554" y="3" type="line"/>
+      <point x="554" y="22" type="line"/>
     </contour>
     <component base="iishort-cy"/>
   </outline>

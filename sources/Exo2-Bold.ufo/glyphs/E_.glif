@@ -2,7 +2,7 @@
 <glyph name="E" format="2">
   <advance width="596"/>
   <unicode hex="0045"/>
-  <guideline x="146" y="538" angle="0"/>
+  <guideline x="146" y="538" angle="0" identifier="GJzUD8cNIH"/>
   <anchor x="317" y="0" name="bottom"/>
   <anchor x="568" y="9" name="ogonek"/>
   <anchor x="323" y="735" name="top"/>
