@@ -4,13 +4,13 @@
   <unicode hex="048B"/>
   <outline>
     <contour>
+      <point x="408" y="20" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
       <point x="400" y="-143" type="line"/>
       <point x="419" y="-143" type="line"/>
       <point x="475" y="1" type="line"/>
       <point x="477" y="20" type="line"/>
-      <point x="408" y="20" type="line"/>
-      <point x="406" y="0" type="line"/>
-      <point x="450" y="0" type="line"/>
     </contour>
     <component base="ii-cy"/>
     <component base="brevecomb-cy" xOffset="-23" yOffset="78"/>

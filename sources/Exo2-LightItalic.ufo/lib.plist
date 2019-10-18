@@ -52,6 +52,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -1071,14 +1073,18 @@
       <string>dieresisacute</string>
       <string>tildemacron</string>
       <string>horn</string>
-      <string>Oslash.BRACKET.144</string>
-      <string>eth.BRACKET.144</string>
-      <string>oslash.BRACKET.144</string>
-      <string>cent.BRACKET.144</string>
-      <string>dollar.BRACKET.144</string>
-      <string>peseta.BRACKET.144</string>
-      <string>peso.BRACKET.144</string>
-      <string>notequal.BRACKET.144</string>
+      <string>eth.rvrn</string>
+      <string>dollar.rvrn</string>
+      <string>oslash.rvrn</string>
+      <string>cent.rvrn</string>
+      <string>euro.rvrn</string>
+      <string>naira.rvrn</string>
+      <string>peseta.rvrn</string>
+      <string>peso.rvrn</string>
+      <string>won.rvrn</string>
+      <string>yen.rvrn</string>
+      <string>notequal.rvrn</string>
+      <string>Oslash.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

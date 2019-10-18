@@ -4,13 +4,13 @@
   <unicode hex="04CD"/>
   <outline>
     <contour>
-      <point x="790" y="3" type="line"/>
-      <point x="793" y="22" type="line"/>
       <point x="704" y="22" type="line"/>
       <point x="701" y="0" type="line"/>
       <point x="765" y="0" type="line"/>
       <point x="714" y="-151" type="line"/>
       <point x="733" y="-151" type="line"/>
+      <point x="790" y="3" type="line"/>
+      <point x="793" y="22" type="line"/>
     </contour>
     <component base="Em-cy"/>
   </outline>
