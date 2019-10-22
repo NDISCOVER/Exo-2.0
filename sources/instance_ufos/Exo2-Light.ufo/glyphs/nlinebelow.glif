@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nlinebelow" format="2">
+  <advance width="577.0588235294117"/>
+  <unicode hex="1E49"/>
+  <outline>
+    <component base="n"/>
+    <component base="macronbelowcomb" xOffset="509.94117647058823" yOffset="-5.647058823529411"/>
+  </outline>
+</glyph>

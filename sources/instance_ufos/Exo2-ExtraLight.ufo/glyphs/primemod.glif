@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primemod" format="2">
+  <advance width="241.21176470588236"/>
+  <unicode hex="02B9"/>
+  <anchor x="129.32941176470587" y="551.364705882353" name="_top"/>
+  <outline>
+    <contour>
+      <point x="171.16470588235293" y="748.0705882352942" type="line"/>
+      <point x="135.49411764705883" y="748.0705882352942" type="line"/>
+      <point x="82.05882352941177" y="538.3764705882353" type="line"/>
+      <point x="111.84705882352941" y="538.3764705882353" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender-cy" format="2">
+  <advance width="522.4117647058823"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <contour>
+      <point x="516.0" y="51.588235294117645" type="line"/>
+      <point x="433.1764705882353" y="51.588235294117645" type="line"/>
+      <point x="433.1764705882353" y="0.0" type="line"/>
+      <point x="516.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="516.0" y="5.0" type="line"/>
+      <point x="465.70588235294116" y="5.0" type="line"/>
+      <point x="473.5882352941176" y="-143.47058823529412" type="line"/>
+      <point x="516.0" y="-143.47058823529412" type="line"/>
+    </contour>
+    <component base="x"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
+    </dict>
+  </lib>
+</glyph>

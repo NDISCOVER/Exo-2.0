@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Te-cy" format="2">
+  <advance width="574.8235294117648"/>
+  <unicode hex="0422"/>
+  <outline>
+    <contour>
+      <point x="319.88235294117646" y="690.0" type="line"/>
+      <point x="253.94117647058823" y="690.0" type="line"/>
+      <point x="253.94117647058823" y="0.0" type="line"/>
+      <point x="319.88235294117646" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="549.7058823529412" y="690.0" type="line"/>
+      <point x="25.11764705882353" y="690.0" type="line"/>
+      <point x="25.11764705882353" y="631.7647058823529" type="line"/>
+      <point x="549.7058823529412" y="631.7647058823529" type="line"/>
+    </contour>
+  </outline>
+</glyph>

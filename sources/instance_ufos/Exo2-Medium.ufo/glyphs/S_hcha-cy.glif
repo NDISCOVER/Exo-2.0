@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha-cy" format="2">
+  <advance width="960.2352941176471"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="181.9764705882353" y="690.0" type="line"/>
+      <point x="83.84705882352941" y="690.0" type="line"/>
+      <point x="83.84705882352941" y="0.0" type="line"/>
+      <point x="181.9764705882353" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="929.2" y="81.2" type="line"/>
+      <point x="173.10588235294117" y="81.2" type="line"/>
+      <point x="173.9764705882353" y="0.0" type="line"/>
+      <point x="929.2" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="512.8470588235294" y="690.0" type="line"/>
+      <point x="415.5882352941176" y="690.0" type="line"/>
+      <point x="415.5882352941176" y="0.0" type="line"/>
+      <point x="512.8470588235294" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="844.5882352941177" y="690.0" type="line"/>
+      <point x="747.3294117647059" y="690.0" type="line"/>
+      <point x="747.3294117647059" y="0.0" type="line"/>
+      <point x="844.5882352941177" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="929.2" y="7.0" type="line"/>
+      <point x="851.2235294117647" y="7.0" type="line"/>
+      <point x="860.7058823529412" y="-151.0" type="line"/>
+      <point x="929.2" y="-151.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

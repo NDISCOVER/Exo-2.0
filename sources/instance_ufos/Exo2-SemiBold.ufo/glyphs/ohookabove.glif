@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohookabove" format="2">
+  <advance width="576.3333333333334"/>
+  <unicode hex="1ECF"/>
+  <outline>
+    <component base="o"/>
+    <component base="hookabovecomb" xOffset="443.93333333333334" yOffset="-9.333333333333332"/>
+  </outline>
+</glyph>

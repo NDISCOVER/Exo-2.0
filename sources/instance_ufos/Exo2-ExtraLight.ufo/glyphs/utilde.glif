@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utilde" format="2">
+  <advance width="562.635294117647"/>
+  <unicode hex="0169"/>
+  <outline>
+    <component base="u"/>
+    <component base="tilde" xOffset="78.68235294117648" yOffset="-1.3058823529411763"/>
+  </outline>
+</glyph>

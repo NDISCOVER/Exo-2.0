@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotaccent" format="2">
+  <advance width="340.8"/>
+  <anchor x="143.21904761904761" y="535.1428571428571" name="_top"/>
+  <outline>
+    <contour>
+      <point x="171.10476190476192" y="865.6476190476191" type="curve" smooth="yes"/>
+      <point x="130.56190476190477" y="865.6476190476191" type="line" smooth="yes"/>
+      <point x="104.53333333333333" y="865.6476190476191"/>
+      <point x="91.8" y="852.9142857142857"/>
+      <point x="91.8" y="828.2761904761904" type="curve" smooth="yes"/>
+      <point x="91.8" y="781.0095238095238" type="line" smooth="yes"/>
+      <point x="91.8" y="756.152380952381"/>
+      <point x="104.53333333333333" y="743.0285714285715"/>
+      <point x="130.56190476190477" y="743.0285714285715" type="curve" smooth="yes"/>
+      <point x="171.10476190476192" y="743.0285714285715" type="line" smooth="yes"/>
+      <point x="197.13333333333333" y="743.0285714285715"/>
+      <point x="209.86666666666667" y="756.9333333333333"/>
+      <point x="209.86666666666667" y="781.0095238095238" type="curve" smooth="yes"/>
+      <point x="209.86666666666667" y="828.2761904761904" type="line" smooth="yes"/>
+      <point x="209.86666666666667" y="852.9142857142857"/>
+      <point x="197.13333333333333" y="865.6476190476191"/>
+    </contour>
+    <contour>
+      <point x="218.98095238095237" y="725.9809523809524" type="line"/>
+      <point x="33.84761904761905" y="593.5142857142857" type="line"/>
+      <point x="74.82857142857142" y="533.4571428571429" type="line"/>
+      <point x="283.4" y="628.6285714285714" type="line"/>
+    </contour>
+  </outline>
+</glyph>

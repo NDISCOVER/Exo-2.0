@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydotaccent" format="2">
+  <advance width="562.3809523809524"/>
+  <unicode hex="1E8F"/>
+  <outline>
+    <component base="y"/>
+    <component base="dotaccentcomb" xOffset="409.0095238095238" yOffset="5.514285714285714"/>
+  </outline>
+</glyph>

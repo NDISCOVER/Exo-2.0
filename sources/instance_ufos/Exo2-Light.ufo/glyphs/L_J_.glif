@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ" format="2">
+  <advance width="845.5882352941177"/>
+  <unicode hex="01C7"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="511.2352941176471"/>
+  </outline>
+</glyph>

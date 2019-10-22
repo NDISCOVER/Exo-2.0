@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy" format="2">
+  <advance width="572.0235294117647"/>
+  <unicode hex="04A3"/>
+  <outline>
+    <contour>
+      <point x="536.1058823529412" y="33.23529411764706" type="line"/>
+      <point x="455.1764705882353" y="33.23529411764706" type="line"/>
+      <point x="455.36470588235295" y="0.0" type="line"/>
+      <point x="536.1058823529412" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="536.1058823529412" y="5.0" type="line"/>
+      <point x="502.18823529411765" y="5.0" type="line"/>
+      <point x="508.94117647058823" y="-143.18823529411765" type="line"/>
+      <point x="536.1058823529412" y="-143.18823529411765" type="line"/>
+    </contour>
+    <component base="en-cy"/>
+  </outline>
+</glyph>

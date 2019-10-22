@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eltail-cy" format="2">
+  <advance width="669.8666666666667"/>
+  <unicode hex="04C5"/>
+  <outline>
+    <contour>
+      <point x="449.46666666666664" y="96.93333333333334" type="line"/>
+      <point x="449.46666666666664" y="0.0" type="line"/>
+      <point x="561.6666666666666" y="0.0" type="line"/>
+      <point x="524.2666666666667" y="-151.0" type="line"/>
+      <point x="611.0666666666667" y="-151.0" type="line"/>
+      <point x="659.2666666666667" y="0.0" type="line"/>
+      <point x="659.2666666666667" y="96.93333333333334" type="line"/>
+    </contour>
+    <component base="El-cy" xOffset="-12.8"/>
+  </outline>
+</glyph>

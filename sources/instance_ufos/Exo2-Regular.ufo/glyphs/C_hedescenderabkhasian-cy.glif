@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescenderabkhasian-cy" format="2">
+  <advance width="723.6705882352941"/>
+  <unicode hex="04BE"/>
+  <outline>
+    <contour>
+      <point x="478.38823529411764" y="7.0" type="line"/>
+      <point x="408.43529411764706" y="7.0" type="line"/>
+      <point x="413.8941176470588" y="-151.0" type="line"/>
+      <point x="474.2" y="-151.0" type="line"/>
+    </contour>
+    <component base="Cheabkhasian-cy"/>
+  </outline>
+</glyph>

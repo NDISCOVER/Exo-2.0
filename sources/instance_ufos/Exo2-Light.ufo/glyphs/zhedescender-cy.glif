@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender-cy" format="2">
+  <advance width="797.3529411764706"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="785.2352941176471" y="51.588235294117645" type="line"/>
+      <point x="686.5882352941177" y="51.588235294117645" type="line"/>
+      <point x="687.0588235294117" y="0.0" type="line"/>
+      <point x="785.2352941176471" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="785.2352941176471" y="5.0" type="line"/>
+      <point x="734.9411764705883" y="5.0" type="line"/>
+      <point x="742.8235294117648" y="-143.47058823529412" type="line"/>
+      <point x="785.2352941176471" y="-143.47058823529412" type="line"/>
+    </contour>
+    <component base="zhe-cy"/>
+  </outline>
+</glyph>

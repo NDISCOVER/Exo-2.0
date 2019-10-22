@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexhookabove" format="2">
+  <advance width="576.495238095238"/>
+  <unicode hex="1EC2"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexhook" xOffset="90.48571428571428" yOffset="194.14285714285714"/>
+  </outline>
+</glyph>

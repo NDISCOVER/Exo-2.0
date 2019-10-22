@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eldescender-cy" format="2">
+  <advance width="679.0117647058823"/>
+  <unicode hex="052E"/>
+  <outline>
+    <contour>
+      <point x="646.8470588235294" y="71.6" type="line"/>
+      <point x="482.11764705882354" y="71.6" type="line"/>
+      <point x="482.11764705882354" y="0.0" type="line"/>
+      <point x="646.8470588235294" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="646.8470588235294" y="7.0" type="line"/>
+      <point x="577.6235294117647" y="7.0" type="line"/>
+      <point x="586.5411764705882" y="-151.0" type="line"/>
+      <point x="646.8470588235294" y="-151.0" type="line"/>
+    </contour>
+    <component base="El-cy"/>
+  </outline>
+</glyph>

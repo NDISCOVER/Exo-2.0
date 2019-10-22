@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecedillabreve" format="2">
+  <advance width="529.635294117647"/>
+  <unicode hex="1E1D"/>
+  <outline>
+    <component base="brevecomb" xOffset="487.36470588235295" yOffset="4.752941176470588"/>
+    <component base="e"/>
+    <component base="cedillacomb" xOffset="358.08235294117645" yOffset="-2.258823529411764"/>
+  </outline>
+</glyph>

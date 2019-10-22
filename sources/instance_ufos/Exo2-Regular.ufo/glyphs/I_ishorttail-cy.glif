@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishorttail-cy" format="2">
+  <advance width="718.8470588235294"/>
+  <unicode hex="048A"/>
+  <outline>
+    <contour>
+      <point x="518.9058823529411" y="71.6" type="line"/>
+      <point x="518.9058823529411" y="0.0" type="line"/>
+      <point x="616.9764705882353" y="0.0" type="line"/>
+      <point x="578.9529411764706" y="-151.0" type="line"/>
+      <point x="639.5294117647059" y="-151.0" type="line"/>
+      <point x="686.4705882352941" y="0.8117647058823529" type="line"/>
+      <point x="686.4705882352941" y="71.6" type="line"/>
+    </contour>
+    <component base="Ii-cy"/>
+    <component base="brevecomb-cy" xOffset="160.54117647058823" yOffset="247.6"/>
+  </outline>
+</glyph>

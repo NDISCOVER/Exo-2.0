@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance width="630.7882352941176"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <contour>
+      <point x="550.0941176470589" y="690.0" type="line"/>
+      <point x="503.15294117647056" y="690.0" type="line"/>
+      <point x="304.6823529411765" y="359.2470588235294" type="line"/>
+      <point x="515.964705882353" y="0.0" type="line"/>
+      <point x="563.0941176470589" y="0.0" type="line"/>
+      <point x="350.3058823529412" y="359.2470588235294" type="line"/>
+    </contour>
+    <contour>
+      <point x="94.36470588235295" y="690.0" type="line"/>
+      <point x="47.61176470588235" y="690.0" type="line"/>
+      <point x="247.21176470588236" y="359.2470588235294" type="line"/>
+      <point x="34.61176470588235" y="0.0" type="line"/>
+      <point x="81.5529411764706" y="0.0" type="line"/>
+      <point x="292.83529411764704" y="359.2470588235294" type="line"/>
+    </contour>
+    <contour>
+      <point x="335.09411764705885" y="377.2705882352941" type="line"/>
+      <point x="268.9764705882353" y="377.2705882352941" type="line"/>
+      <point x="268.9764705882353" y="343.4117647058824" type="line"/>
+      <point x="335.09411764705885" y="343.4117647058824" type="line"/>
+    </contour>
+    <contour>
+      <point x="616.364705882353" y="34.8" type="line"/>
+      <point x="516.7764705882353" y="34.8" type="line"/>
+      <point x="516.7764705882353" y="0.0" type="line"/>
+      <point x="616.364705882353" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="616.364705882353" y="7.0" type="line"/>
+      <point x="580.6941176470589" y="7.0" type="line"/>
+      <point x="587.4470588235295" y="-151.0" type="line"/>
+      <point x="616.364705882353" y="-151.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+    </dict>
+  </lib>
+</glyph>

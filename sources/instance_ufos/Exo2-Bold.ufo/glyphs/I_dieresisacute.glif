@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresisacute" format="2">
+  <advance width="291.74285714285713"/>
+  <unicode hex="1E2E"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresisacute" xOffset="-37.56190476190476" yOffset="187.4857142857143"/>
+  </outline>
+</glyph>

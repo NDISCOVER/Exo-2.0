@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="657.504761904762"/>
+  <unicode hex="0122"/>
+  <outline>
+    <component base="G"/>
+    <component base="comma" xScale="0.909" yScale="0.7753047619047619" xOffset="230.58095238095237" yOffset="-181.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>G</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>G</string>
+    </dict>
+  </lib>
+</glyph>

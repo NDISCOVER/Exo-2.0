@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udblgrave" format="2">
+  <advance width="694.2285714285714"/>
+  <unicode hex="0214"/>
+  <outline>
+    <component base="U"/>
+    <component base="dblgravecomb" xOffset="583.152380952381" yOffset="206.47619047619048"/>
+  </outline>
+</glyph>

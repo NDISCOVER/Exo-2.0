@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheverticalstroke-cy" format="2">
+  <advance width="535.6"/>
+  <unicode hex="04B9"/>
+  <outline>
+    <contour>
+      <point x="148.2" y="487.83529411764704" type="line"/>
+      <point x="52.811764705882354" y="487.83529411764704" type="line"/>
+      <point x="52.811764705882354" y="274.4235294117647" type="line" smooth="yes"/>
+      <point x="52.811764705882354" y="201.2"/>
+      <point x="94.7764705882353" y="166.3294117647059"/>
+      <point x="179.05882352941177" y="166.3294117647059" type="curve" smooth="yes"/>
+      <point x="228.68235294117648" y="166.3294117647059"/>
+      <point x="313.38823529411764" y="179.71764705882353"/>
+      <point x="382.32941176470587" y="206.30588235294118" type="curve"/>
+      <point x="373.49411764705883" y="279.54117647058825" type="line"/>
+      <point x="310.0" y="253.08235294117648"/>
+      <point x="263.3176470588235" y="245.1764705882353"/>
+      <point x="211.1764705882353" y="245.1764705882353" type="curve" smooth="yes"/>
+      <point x="165.6235294117647" y="245.1764705882353"/>
+      <point x="148.2" y="260.6"/>
+      <point x="148.2" y="307.15294117647056" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="459.7529411764706" y="487.83529411764704" type="line"/>
+      <point x="363.49411764705883" y="487.83529411764704" type="line"/>
+      <point x="363.49411764705883" y="0.0" type="line"/>
+      <point x="459.7529411764706" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="229.0" y="79.02352941176471" type="line"/>
+      <point x="283.8235294117647" y="79.02352941176471" type="line"/>
+      <point x="283.8235294117647" y="379.15294117647056" type="line"/>
+      <point x="229.0" y="379.15294117647056" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
+</glyph>

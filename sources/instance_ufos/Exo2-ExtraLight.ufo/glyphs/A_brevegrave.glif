@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevegrave" format="2">
+  <advance width="607.8941176470588"/>
+  <unicode hex="1EB0"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevegrave" xOffset="122.75294117647059" yOffset="185.05882352941177"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreveacute" format="2">
+  <advance width="545.0588235294117"/>
+  <unicode hex="1EAF"/>
+  <outline>
+    <component base="a"/>
+    <component base="breveacute" xOffset="85.58823529411765" yOffset="7.294117647058823"/>
+  </outline>
+</glyph>

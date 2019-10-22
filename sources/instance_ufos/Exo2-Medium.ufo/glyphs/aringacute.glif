@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute" format="2">
+  <advance width="551.0588235294117"/>
+  <unicode hex="01FB"/>
+  <outline>
+    <contour>
+      <point x="335.01176470588234" y="917.8470588235294" type="line"/>
+      <point x="186.91764705882352" y="796.2117647058824" type="line"/>
+      <point x="216.0705882352941" y="754.3529411764706" type="line"/>
+      <point x="386.3176470588235" y="846.6117647058824" type="line"/>
+    </contour>
+    <component base="a"/>
+    <component base="ring" xOffset="123.61176470588235" yOffset="-12.094117647058823"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ygrave" format="2">
+  <advance width="528.6117647058824"/>
+  <unicode hex="1EF3"/>
+  <outline>
+    <component base="y"/>
+    <component base="grave" xOffset="67.05882352941177" yOffset="10.564705882352941"/>
+  </outline>
+</glyph>

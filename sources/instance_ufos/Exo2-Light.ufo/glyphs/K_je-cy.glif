@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kje-cy" format="2">
+  <advance width="590.4117647058823"/>
+  <unicode hex="040C"/>
+  <outline>
+    <component base="Ka-cy"/>
+    <component base="acute" xOffset="181.88235294117646" yOffset="188.8235294117647"/>
+  </outline>
+</glyph>

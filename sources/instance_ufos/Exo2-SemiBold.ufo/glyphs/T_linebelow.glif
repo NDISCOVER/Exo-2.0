@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tlinebelow" format="2">
+  <advance width="591.8"/>
+  <unicode hex="1E6E"/>
+  <outline>
+    <component base="T"/>
+    <component base="macronbelowcomb" xOffset="524.0666666666667" yOffset="-2.6666666666666665"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="716.5333333333333"/>
+  <unicode hex="01AF"/>
+  <anchor x="333.06666666666666" y="-1.6" name="bottom"/>
+  <anchor x="336.53333333333336" y="732.4" name="top"/>
+  <outline>
+    <contour>
+      <point x="599.0666666666667" y="690.0" type="line"/>
+      <point x="473.06666666666666" y="690.0" type="line"/>
+      <point x="473.06666666666666" y="270.26666666666665" type="line" smooth="yes"/>
+      <point x="473.06666666666666" y="136.73333333333332"/>
+      <point x="437.6" y="94.13333333333333"/>
+      <point x="335.6666666666667" y="94.13333333333333" type="curve" smooth="yes"/>
+      <point x="231.86666666666667" y="94.13333333333333"/>
+      <point x="197.26666666666665" y="136.73333333333332"/>
+      <point x="197.26666666666665" y="270.26666666666665" type="curve" smooth="yes"/>
+      <point x="197.26666666666665" y="690.0" type="line"/>
+      <point x="72.13333333333334" y="690.0" type="line"/>
+      <point x="72.13333333333334" y="270.26666666666665" type="line" smooth="yes"/>
+      <point x="72.13333333333334" y="64.13333333333334"/>
+      <point x="144.0" y="-13.133333333333333"/>
+      <point x="341.46666666666664" y="-13.133333333333333" type="curve" smooth="yes"/>
+      <point x="529.7333333333333" y="-13.133333333333333"/>
+      <point x="599.0666666666667" y="64.13333333333334"/>
+      <point x="599.0666666666667" y="270.26666666666665" type="curve" smooth="yes"/>
+    </contour>
+    <component base="horncomb" xOffset="827.3333333333334" yOffset="179.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwadieresis-cy" format="2">
+  <advance width="608.8823529411765"/>
+  <unicode hex="04DA"/>
+  <outline>
+    <component base="Schwa-cy"/>
+    <component base="dieresiscomb" xOffset="508.01176470588234" yOffset="178.64705882352942"/>
+  </outline>
+</glyph>

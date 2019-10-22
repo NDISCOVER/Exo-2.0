@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetse-cy" format="2">
+  <advance width="817.1058823529412"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="624.7764705882353" y="0.0" type="line"/>
+      <point x="713.2352941176471" y="0.0" type="line"/>
+      <point x="713.2352941176471" y="690.0" type="line"/>
+      <point x="624.7764705882353" y="690.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="217.8235294117647" y="0.0" type="line"/>
+      <point x="306.2823529411765" y="0.0" type="line"/>
+      <point x="306.2823529411765" y="690.0" type="line"/>
+      <point x="217.8235294117647" y="690.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="298.2823529411765" y="0.0" type="line"/>
+      <point x="797.4235294117647" y="0.0" type="line"/>
+      <point x="797.4235294117647" y="71.6" type="line"/>
+      <point x="298.2823529411765" y="71.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="737.1176470588235" y="-151.0" type="line"/>
+      <point x="797.4235294117647" y="-151.0" type="line"/>
+      <point x="797.4235294117647" y="7.0" type="line"/>
+      <point x="728.2" y="7.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="24.08235294117647" y="611.8352941176471" type="line"/>
+      <point x="524.8117647058823" y="611.8352941176471" type="line"/>
+      <point x="524.8117647058823" y="690.0" type="line"/>
+      <point x="24.08235294117647" y="690.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

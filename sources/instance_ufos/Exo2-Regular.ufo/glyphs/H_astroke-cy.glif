@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hastroke-cy" format="2">
+  <advance width="593.964705882353"/>
+  <unicode hex="04FE"/>
+  <outline>
+    <contour>
+      <point x="481.7176470588235" y="0.0" type="line"/>
+      <point x="578.0941176470589" y="0.0" type="line"/>
+      <point x="383.16470588235296" y="357.08235294117645" type="line"/>
+      <point x="565.0941176470589" y="690.0" type="line"/>
+      <point x="469.4470588235294" y="690.0" type="line"/>
+      <point x="292.6235294117647" y="357.08235294117645" type="line"/>
+    </contour>
+    <contour>
+      <point x="16.6" y="0.0" type="line"/>
+      <point x="112.24705882352941" y="0.0" type="line"/>
+      <point x="301.3411764705882" y="357.08235294117645" type="line"/>
+      <point x="124.51764705882353" y="690.0" type="line"/>
+      <point x="29.6" y="690.0" type="line"/>
+      <point x="210.8" y="357.08235294117645" type="line"/>
+    </contour>
+    <contour>
+      <point x="84.28235294117647" y="323.9294117647059" type="line"/>
+      <point x="508.6823529411765" y="323.9294117647059" type="line"/>
+      <point x="508.6823529411765" y="388.50588235294117" type="line"/>
+      <point x="84.28235294117647" y="388.50588235294117" type="line"/>
+    </contour>
+    <contour>
+      <point x="243.38823529411764" y="324.47058823529414" type="line"/>
+      <point x="350.09411764705885" y="324.47058823529414" type="line"/>
+      <point x="350.09411764705885" y="392.4235294117647" type="line"/>
+      <point x="243.38823529411764" y="392.4235294117647" type="line"/>
+    </contour>
+  </outline>
+</glyph>

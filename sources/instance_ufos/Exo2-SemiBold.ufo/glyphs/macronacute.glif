@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacute" format="2">
+  <advance width="400.0"/>
+  <anchor x="199.86666666666667" y="542.6" name="_top"/>
+  <outline>
+    <contour>
+      <point x="345.26666666666665" y="655.2666666666667" type="line"/>
+      <point x="54.733333333333334" y="655.2666666666667" type="line"/>
+      <point x="54.733333333333334" y="571.2666666666667" type="line"/>
+      <point x="345.26666666666665" y="571.2666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="245.2" y="853.7333333333333" type="line"/>
+      <point x="121.86666666666667" y="731.8" type="line"/>
+      <point x="161.8" y="684.8" type="line"/>
+      <point x="311.73333333333335" y="774.5333333333333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

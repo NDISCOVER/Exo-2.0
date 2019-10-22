@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iebreve-cy" format="2">
+  <advance width="551.0"/>
+  <unicode hex="04D7"/>
+  <outline>
+    <component base="ie-cy"/>
+    <component base="brevecomb-cy" xOffset="92.13333333333334" yOffset="61.733333333333334"/>
+  </outline>
+</glyph>

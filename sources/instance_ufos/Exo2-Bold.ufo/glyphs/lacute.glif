@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance width="326.9142857142857"/>
+  <unicode hex="013A"/>
+  <outline>
+    <component base="l"/>
+    <component base="acute" xOffset="3.9523809523809526" yOffset="206.3904761904762"/>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="667.9411764705883"/>
+  <unicode hex="0048"/>
+  <anchor x="334.3764705882353" y="0.0" name="bottom"/>
+  <anchor x="329.0" y="345.0" name="center"/>
+  <anchor x="334.3764705882353" y="742.0823529411765" name="top"/>
+  <outline>
+    <contour>
+      <point x="174.68235294117648" y="690.0" type="line"/>
+      <point x="86.95294117647059" y="690.0" type="line"/>
+      <point x="86.95294117647059" y="0.0" type="line"/>
+      <point x="174.68235294117648" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="503.52941176470586" y="406.52941176470586" type="line"/>
+      <point x="166.68235294117648" y="406.52941176470586" type="line"/>
+      <point x="166.68235294117648" y="330.5529411764706" type="line"/>
+      <point x="503.52941176470586" y="330.5529411764706" type="line"/>
+    </contour>
+    <contour>
+      <point x="580.9882352941177" y="690.0" type="line"/>
+      <point x="493.25882352941176" y="690.0" type="line"/>
+      <point x="493.25882352941176" y="0.0" type="line"/>
+      <point x="580.9882352941177" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

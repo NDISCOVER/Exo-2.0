@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="621.964705882353"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="357.2823529411765" y="630.0" type="curve" smooth="yes"/>
+      <point x="264.6823529411765" y="630.0" type="line" smooth="yes"/>
+      <point x="249.2" y="630.0"/>
+      <point x="237.63529411764705" y="621.1647058823529"/>
+      <point x="231.98823529411766" y="605.6823529411764" type="curve" smooth="yes"/>
+      <point x="10.24705882352941" y="0.0" type="line"/>
+      <point x="100.70588235294117" y="0.0" type="line"/>
+      <point x="280.1294117647059" y="506.0470588235294" type="line" smooth="yes"/>
+      <point x="286.67058823529413" y="524.3176470588236"/>
+      <point x="291.67058823529413" y="543.7764705882353"/>
+      <point x="297.21176470588233" y="562.0470588235294" type="curve"/>
+      <point x="324.7529411764706" y="562.0470588235294" type="line"/>
+      <point x="329.56470588235294" y="543.7764705882353"/>
+      <point x="335.29411764705884" y="524.3176470588236"/>
+      <point x="341.83529411764704" y="506.0470588235294" type="curve" smooth="yes"/>
+      <point x="521.2588235294118" y="0.0" type="line"/>
+      <point x="611.7176470588236" y="0.0" type="line"/>
+      <point x="389.9764705882353" y="605.6823529411764" type="line" smooth="yes"/>
+      <point x="384.32941176470587" y="621.1647058823529"/>
+      <point x="372.7647058823529" y="630.0"/>
+    </contour>
+    <contour>
+      <point x="488.18823529411765" y="251.2" type="line"/>
+      <point x="132.7764705882353" y="251.2" type="line"/>
+      <point x="132.7764705882353" y="175.2235294117647" type="line"/>
+      <point x="488.18823529411765" y="175.2235294117647" type="line"/>
+    </contour>
+    <contour>
+      <point x="371.6823529411765" y="1022.7294117647059" type="line"/>
+      <point x="227.28235294117647" y="907.2" type="line"/>
+      <point x="253.6" y="869.3176470588236" type="line"/>
+      <point x="416.77647058823527" y="959.4235294117647" type="line"/>
+    </contour>
+    <component base="ring" xOffset="162.18823529411765" yOffset="113.37647058823529"/>
+  </outline>
+</glyph>

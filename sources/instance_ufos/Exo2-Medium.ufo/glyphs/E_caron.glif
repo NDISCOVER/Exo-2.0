@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="562.3176470588236"/>
+  <unicode hex="011A"/>
+  <outline>
+    <component base="E"/>
+    <component base="caron" xOffset="97.58823529411765" yOffset="200.12941176470588"/>
+  </outline>
+</glyph>

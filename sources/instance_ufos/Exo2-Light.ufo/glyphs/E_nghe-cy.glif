@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="866.9411764705883"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="480.70588235294116" y="0.0" type="line"/>
+      <point x="546.1764705882352" y="0.0" type="line"/>
+      <point x="546.1764705882352" y="559.6470588235294" type="line" smooth="yes"/>
+      <point x="546.1764705882352" y="609.5294117647059"/>
+      <point x="571.2352941176471" y="634.5882352941177"/>
+      <point x="618.7647058823529" y="634.5882352941177" type="curve" smooth="yes"/>
+      <point x="840.7647058823529" y="634.5882352941177" type="line"/>
+      <point x="844.1764705882352" y="684.5882352941177" type="line"/>
+      <point x="764.9411764705883" y="690.9411764705883"/>
+      <point x="681.2352941176471" y="690.9411764705883"/>
+      <point x="598.2352941176471" y="690.9411764705883" type="curve" smooth="yes"/>
+      <point x="530.2941176470588" y="690.9411764705883"/>
+      <point x="480.70588235294116" y="641.3529411764706"/>
+      <point x="480.70588235294116" y="570.5882352941177" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="92.6470588235294" y="0.0" type="line"/>
+      <point x="158.11764705882354" y="0.0" type="line"/>
+      <point x="158.11764705882354" y="690.0" type="line"/>
+      <point x="92.6470588235294" y="690.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="150.11764705882354" y="340.6470588235294" type="line"/>
+      <point x="491.1764705882353" y="340.6470588235294" type="line"/>
+      <point x="491.1764705882353" y="397.47058823529414" type="line"/>
+      <point x="150.11764705882354" y="397.47058823529414" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

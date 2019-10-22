@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="584"/>
+  <unicode hex="048B"/>
+  <outline>
+    <contour>
+      <point x="465" y="22" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="499" y="-144" type="line"/>
+      <point x="518" y="-144" type="line"/>
+      <point x="554" y="3" type="line"/>
+      <point x="554" y="22" type="line"/>
+    </contour>
+    <component base="iishort-cy"/>
+  </outline>
+</glyph>

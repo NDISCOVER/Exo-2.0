@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="666.2352941176471"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="324.8235294117647" y="387.5882352941176" type="line"/>
+      <point x="23.647058823529413" y="387.5882352941176" type="line"/>
+      <point x="23.647058823529413" y="348.7647058823529" type="line"/>
+      <point x="324.8235294117647" y="348.7647058823529" type="line"/>
+    </contour>
+    <component base="D" xOffset="3.9411764705882355"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D</string>
+    </dict>
+  </lib>
+</glyph>

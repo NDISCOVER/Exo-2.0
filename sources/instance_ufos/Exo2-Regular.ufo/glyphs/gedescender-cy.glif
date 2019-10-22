@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gedescender-cy" format="2">
+  <advance width="462.0705882352941"/>
+  <unicode hex="04F7"/>
+  <outline>
+    <contour>
+      <point x="226.6235294117647" y="68.41176470588235" type="line"/>
+      <point x="105.6470588235294" y="68.41176470588235" type="line"/>
+      <point x="106.37647058823529" y="0.0" type="line"/>
+      <point x="226.6235294117647" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="226.6235294117647" y="5.0" type="line"/>
+      <point x="161.31764705882352" y="5.0" type="line"/>
+      <point x="170.23529411764707" y="-143.72941176470587" type="line"/>
+      <point x="226.6235294117647" y="-143.72941176470587" type="line"/>
+    </contour>
+    <component base="ge-cy"/>
+  </outline>
+</glyph>

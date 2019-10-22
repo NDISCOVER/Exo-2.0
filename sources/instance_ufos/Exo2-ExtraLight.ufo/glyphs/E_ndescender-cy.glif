@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender-cy" format="2">
+  <advance width="679.8235294117648"/>
+  <unicode hex="04A2"/>
+  <outline>
+    <contour>
+      <point x="645.7176470588236" y="34.8" type="line"/>
+      <point x="525.8352941176471" y="34.8" type="line"/>
+      <point x="525.8352941176471" y="0.0" type="line"/>
+      <point x="645.7176470588236" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="645.7176470588236" y="7.0" type="line"/>
+      <point x="610.0470588235294" y="7.0" type="line"/>
+      <point x="616.8" y="-151.0" type="line"/>
+      <point x="645.7176470588236" y="-151.0" type="line"/>
+    </contour>
+    <component base="En-cy" xOffset="6.0588235294117645"/>
+  </outline>
+</glyph>

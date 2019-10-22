@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy" format="2">
+  <advance width="684.2352941176471"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="92.6470588235294" y="0.0" type="line"/>
+      <point x="158.11764705882354" y="0.0" type="line"/>
+      <point x="158.11764705882354" y="690.0" type="line"/>
+      <point x="92.6470588235294" y="690.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="150.11764705882354" y="0.0" type="line"/>
+      <point x="649.4705882352941" y="0.0" type="line"/>
+      <point x="649.4705882352941" y="54.0" type="line"/>
+      <point x="150.11764705882354" y="54.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="500.11764705882354" y="0.0" type="line"/>
+      <point x="566.0588235294117" y="0.0" type="line"/>
+      <point x="566.0588235294117" y="690.0" type="line"/>
+      <point x="500.11764705882354" y="690.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="604.1764705882352" y="-151.0" type="line"/>
+      <point x="649.4705882352941" y="-151.0" type="line"/>
+      <point x="649.4705882352941" y="7.0" type="line"/>
+      <point x="596.2941176470588" y="7.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

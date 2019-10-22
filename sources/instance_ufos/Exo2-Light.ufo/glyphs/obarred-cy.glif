@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy" format="2">
+  <advance width="565.1764705882352"/>
+  <unicode hex="04E9"/>
+  <anchor x="280.4117647058824" y="555.6470588235294" name="top"/>
+  <outline>
+    <contour>
+      <point x="85.29411764705883" y="229.11764705882354" type="line"/>
+      <point x="475.3529411764706" y="229.11764705882354" type="line"/>
+      <point x="475.3529411764706" y="271.70588235294116" type="line"/>
+      <point x="85.29411764705883" y="271.70588235294116" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+</glyph>

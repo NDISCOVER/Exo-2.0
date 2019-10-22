@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palochka-cy" format="2">
+  <advance width="292.57142857142856"/>
+  <unicode hex="04CF"/>
+  <anchor x="220.6" y="0.0" name="ogonek"/>
+  <anchor x="146.92380952380952" y="548.6571428571428" name="top"/>
+  <outline>
+    <contour>
+      <point x="237.56190476190477" y="690.0" type="line"/>
+      <point x="55.00952380952381" y="690.0" type="line"/>
+      <point x="55.00952380952381" y="0.0" type="line"/>
+      <point x="237.56190476190477" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

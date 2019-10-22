@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Palochka-cy" format="2">
+  <advance width="308.84761904761905"/>
+  <unicode hex="04C0"/>
+  <outline>
+    <contour>
+      <point x="247.56190476190477" y="690.0" type="line"/>
+      <point x="61.285714285714285" y="690.0" type="line"/>
+      <point x="61.285714285714285" y="0.0" type="line"/>
+      <point x="247.56190476190477" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

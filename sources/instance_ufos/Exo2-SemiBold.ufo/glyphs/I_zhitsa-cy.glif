@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsa-cy" format="2">
+  <advance width="658.7333333333333"/>
+  <unicode hex="0474"/>
+  <outline>
+    <contour>
+      <point x="252.13333333333333" y="0.0" type="curve" smooth="yes"/>
+      <point x="370.2" y="0.0" type="line" smooth="yes"/>
+      <point x="392.46666666666664" y="0.0"/>
+      <point x="410.3333333333333" y="14.333333333333334"/>
+      <point x="415.6" y="34.6" type="curve" smooth="yes"/>
+      <point x="555.4666666666667" y="553.9333333333333" type="line" smooth="yes"/>
+      <point x="566.4666666666667" y="596.1333333333333"/>
+      <point x="587.0" y="608.5333333333333"/>
+      <point x="629.8666666666667" y="608.5333333333333" type="curve" smooth="yes"/>
+      <point x="636.4" y="608.5333333333333"/>
+      <point x="653.6666666666666" y="607.5333333333333"/>
+      <point x="662.2" y="606.4" type="curve"/>
+      <point x="662.2" y="698.3333333333334" type="line"/>
+      <point x="639.7333333333333" y="702.1333333333333"/>
+      <point x="617.6" y="704.0"/>
+      <point x="598.0" y="704.0" type="curve" smooth="yes"/>
+      <point x="516.0" y="704.0"/>
+      <point x="456.73333333333335" y="670.9333333333333"/>
+      <point x="436.93333333333334" y="583.8666666666667" type="curve" smooth="yes"/>
+      <point x="342.6666666666667" y="171.66666666666666" type="line" smooth="yes"/>
+      <point x="336.93333333333334" y="146.66666666666666"/>
+      <point x="329.2" y="120.26666666666667"/>
+      <point x="324.46666666666664" y="95.26666666666667" type="curve"/>
+      <point x="298.73333333333335" y="95.26666666666667" type="line"/>
+      <point x="293.0" y="120.26666666666667"/>
+      <point x="287.26666666666665" y="146.66666666666666"/>
+      <point x="280.53333333333336" y="171.66666666666666" type="curve" smooth="yes"/>
+      <point x="140.4" y="690.0" type="line"/>
+      <point x="11.0" y="690.0" type="line"/>
+      <point x="206.73333333333332" y="34.6" type="line" smooth="yes"/>
+      <point x="212.13333333333333" y="14.333333333333334"/>
+      <point x="229.86666666666667" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>V</string>
+    </dict>
+  </lib>
+</glyph>

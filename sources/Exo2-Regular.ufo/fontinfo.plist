@@ -11,7 +11,7 @@
     <key>descender</key>
     <integer>-197</integer>
     <key>familyName</key>
-    <string>Exo 2</string>
+    <string>Exo2</string>
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
@@ -87,7 +87,7 @@
       <integer>85</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
-    <integer>-100</integer>
+    <integer>-75</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>styleName</key>

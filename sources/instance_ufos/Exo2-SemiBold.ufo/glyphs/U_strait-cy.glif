@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustrait-cy" format="2">
+  <advance width="589.0"/>
+  <unicode hex="04AE"/>
+  <outline>
+    <contour>
+      <point x="583.4" y="690.0" type="line"/>
+      <point x="453.1333333333333" y="690.0" type="line"/>
+      <point x="327.26666666666665" y="422.0" type="line" smooth="yes"/>
+      <point x="315.4" y="396.3333333333333"/>
+      <point x="306.93333333333334" y="365.4"/>
+      <point x="299.3333333333333" y="338.73333333333335" type="curve"/>
+      <point x="290.6666666666667" y="338.73333333333335" type="line"/>
+      <point x="283.06666666666666" y="365.4"/>
+      <point x="274.73333333333335" y="396.2"/>
+      <point x="262.73333333333335" y="421.8666666666667" type="curve" smooth="yes"/>
+      <point x="136.73333333333332" y="690.0" type="line"/>
+      <point x="4.733333333333333" y="690.0" type="line"/>
+      <point x="236.86666666666667" y="224.93333333333334" type="line"/>
+      <point x="353.0" y="224.93333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="357.1333333333333" y="305.46666666666664" type="line"/>
+      <point x="232.0" y="305.46666666666664" type="line"/>
+      <point x="232.0" y="0.0" type="line"/>
+      <point x="357.1333333333333" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

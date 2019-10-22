@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="483.1047619047619"/>
+  <unicode hex="04FB"/>
+  <outline>
+    <contour>
+      <point x="76.83809523809524" y="-172.15238095238095" type="line"/>
+      <point x="197.10476190476192" y="-179.57142857142858"/>
+      <point x="273.5047619047619" y="-120.25714285714285"/>
+      <point x="273.5047619047619" y="-15.619047619047619" type="curve" smooth="yes"/>
+      <point x="273.5047619047619" y="82.2" type="line"/>
+      <point x="112.0" y="82.2" type="line"/>
+      <point x="112.0" y="0.0" type="line"/>
+      <point x="164.54285714285714" y="0.0" type="line"/>
+      <point x="164.54285714285714" y="-10.076190476190476" type="line" smooth="yes"/>
+      <point x="164.54285714285714" y="-62.266666666666666"/>
+      <point x="132.15238095238095" y="-79.19047619047619"/>
+      <point x="76.83809523809524" y="-79.19047619047619" type="curve"/>
+    </contour>
+    <component base="ghestroke-cy"/>
+  </outline>
+</glyph>

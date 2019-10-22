@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che-cy" format="2">
+  <advance width="677.152380952381"/>
+  <unicode hex="0427"/>
+  <anchor x="657.152380952381" y="0.0" name="bottomright"/>
+  <anchor x="338.7142857142857" y="734.1714285714286" name="top"/>
+  <outline>
+    <contour>
+      <point x="228.52380952380952" y="690.0" type="line"/>
+      <point x="40.8" y="690.0" type="line"/>
+      <point x="40.8" y="398.48571428571427" type="line" smooth="yes"/>
+      <point x="40.8" y="278.62857142857143"/>
+      <point x="99.03809523809524" y="224.0095238095238"/>
+      <point x="226.85714285714286" y="224.0095238095238" type="curve" smooth="yes"/>
+      <point x="288.4095238095238" y="224.0095238095238"/>
+      <point x="384.34285714285716" y="246.9047619047619"/>
+      <point x="460.3809523809524" y="290.3904761904762" type="curve"/>
+      <point x="441.247619047619" y="406.752380952381" type="line"/>
+      <point x="377.34285714285716" y="382.7809523809524"/>
+      <point x="337.2" y="379.4666666666667"/>
+      <point x="295.8095238095238" y="379.4666666666667" type="curve" smooth="yes"/>
+      <point x="242.3904761904762" y="379.4666666666667"/>
+      <point x="228.24761904761905" y="396.5047619047619"/>
+      <point x="228.52380952380952" y="438.85714285714283" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="613.5238095238095" y="690.0" type="line"/>
+      <point x="425.8" y="690.0" type="line"/>
+      <point x="425.8" y="0.0" type="line"/>
+      <point x="613.5238095238095" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

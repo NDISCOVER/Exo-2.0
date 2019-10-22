@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="576.3333333333334"/>
+  <unicode hex="006F"/>
+  <anchor x="286.2" y="-12.0" name="bottom"/>
+  <anchor x="334.4" y="1.7333333333333334" name="ogonek"/>
+  <anchor x="290.4" y="547.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="288.6666666666667" y="503.6" type="curve" smooth="yes"/>
+      <point x="112.26666666666667" y="503.6"/>
+      <point x="45.93333333333334" y="432.73333333333335"/>
+      <point x="45.93333333333334" y="244.66666666666666" type="curve" smooth="yes"/>
+      <point x="45.93333333333334" y="57.0"/>
+      <point x="112.26666666666667" y="-12.866666666666667"/>
+      <point x="288.6666666666667" y="-12.866666666666667" type="curve" smooth="yes"/>
+      <point x="464.93333333333334" y="-12.866666666666667"/>
+      <point x="530.4" y="57.0"/>
+      <point x="530.4" y="244.66666666666666" type="curve" smooth="yes"/>
+      <point x="530.4" y="432.73333333333335"/>
+      <point x="464.93333333333334" y="503.6"/>
+    </contour>
+    <contour>
+      <point x="288.6666666666667" y="406.6666666666667" type="curve" smooth="yes"/>
+      <point x="377.4" y="406.6666666666667"/>
+      <point x="404.0" y="371.93333333333334"/>
+      <point x="404.0" y="244.66666666666666" type="curve" smooth="yes"/>
+      <point x="404.0" y="118.66666666666667"/>
+      <point x="377.4" y="84.06666666666666"/>
+      <point x="288.6666666666667" y="84.06666666666666" type="curve" smooth="yes"/>
+      <point x="198.93333333333334" y="84.06666666666666"/>
+      <point x="173.2" y="118.66666666666667"/>
+      <point x="173.2" y="244.66666666666666" type="curve" smooth="yes"/>
+      <point x="173.2" y="371.93333333333334"/>
+      <point x="198.93333333333334" y="406.6666666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.annotations</key>
+      <array>
+        <dict>
+          <key>position</key>
+          <array>
+            <integer>671</integer>
+            <integer>-59</integer>
+          </array>
+          <key>text</key>
+          <string>contrast +14</string>
+          <key>type</key>
+          <string>Text</string>
+          <key>width</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

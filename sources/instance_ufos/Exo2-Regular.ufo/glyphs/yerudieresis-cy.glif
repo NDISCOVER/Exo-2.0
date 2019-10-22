@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yerudieresis-cy" format="2">
+  <advance width="721.4117647058823"/>
+  <unicode hex="04F9"/>
+  <outline>
+    <component base="yeru-cy"/>
+    <component base="dieresis" xOffset="153.50588235294117" yOffset="-2.647058823529412"/>
+  </outline>
+</glyph>

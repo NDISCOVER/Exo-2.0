@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="663.5058823529412"/>
+  <unicode hex="00D8"/>
+  <anchor x="330.05882352941177" y="0.0" name="bottom"/>
+  <anchor x="331.6235294117647" y="738.4941176470588" name="top"/>
+  <outline>
+    <contour>
+      <point x="494.43529411764706" y="743.2588235294118" type="line"/>
+      <point x="126.87058823529412" y="-40.247058823529414" type="line"/>
+      <point x="154.27058823529413" y="-52.694117647058825" type="line"/>
+      <point x="521.8352941176471" y="731.0" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>

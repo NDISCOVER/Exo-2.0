@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourthtonechinese" format="2">
+  <advance width="314.2"/>
+  <unicode hex="02CB"/>
+  <anchor x="199.88235294117646" y="543.7882352941176" name="_top"/>
+  <outline>
+    <contour>
+      <point x="84.7764705882353" y="723.3176470588236" type="line"/>
+      <point x="36.141176470588235" y="658.1764705882352" type="line"/>
+      <point x="227.8" y="537.6" type="line"/>
+      <point x="257.11764705882354" y="576.8588235294118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

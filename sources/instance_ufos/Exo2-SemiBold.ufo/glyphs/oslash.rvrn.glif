@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.rvrn" format="2">
+  <advance width="576.3333333333334"/>
+  <anchor x="290.4" y="547.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="238.06666666666666" y="37.93333333333333" type="line"/>
+      <point x="153.66666666666666" y="81.46666666666667" type="line"/>
+      <point x="87.66666666666667" y="-55.53333333333333" type="line"/>
+      <point x="173.06666666666666" y="-97.06666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="337.6666666666667" y="463.46666666666664" type="line"/>
+      <point x="422.06666666666666" y="419.93333333333334" type="line"/>
+      <point x="484.06666666666666" y="547.9333333333333" type="line"/>
+      <point x="398.6666666666667" y="590.4666666666667" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Regular [144]</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>1,0.475,0.6501,1</string>
+    </dict>
+  </lib>
+</glyph>

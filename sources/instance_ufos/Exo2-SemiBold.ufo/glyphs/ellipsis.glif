@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="879.9333333333333"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period" xOffset="315.46666666666664"/>
+    <component base="period" xOffset="635.4666666666667"/>
+    <component base="period" xOffset="-4.533333333333333"/>
+  </outline>
+</glyph>

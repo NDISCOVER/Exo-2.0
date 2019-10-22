@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tedescender-cy" format="2">
+  <advance width="601.0571428571428"/>
+  <unicode hex="04AC"/>
+  <outline>
+    <contour>
+      <point x="458.6" y="110.3047619047619" type="line"/>
+      <point x="224.1142857142857" y="110.3047619047619" type="line"/>
+      <point x="224.1142857142857" y="0.0" type="line"/>
+      <point x="458.6" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="350.9714285714286" y="-151.0" type="line"/>
+      <point x="458.6" y="-151.0" type="line"/>
+      <point x="458.6" y="7.0" type="line"/>
+      <point x="338.62857142857143" y="7.0" type="line"/>
+    </contour>
+    <component base="Te-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

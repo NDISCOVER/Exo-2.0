@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="569.5764705882353"/>
+  <unicode hex="00F8"/>
+  <anchor x="282.61176470588236" y="-10.447058823529412" name="bottom"/>
+  <anchor x="286.83529411764704" y="548.4235294117647" name="top"/>
+  <outline>
+    <contour>
+      <point x="404.8705882352941" y="564.2470588235294" type="line"/>
+      <point x="115.81176470588235" y="-57.22352941176471" type="line"/>
+      <point x="159.18823529411765" y="-77.54117647058824" type="line"/>
+      <point x="448.2470588235294" y="543.0588235294117" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

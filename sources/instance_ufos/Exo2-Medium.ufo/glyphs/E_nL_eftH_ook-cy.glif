@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="EnLeftHook-cy" format="2">
+  <advance width="748.6470588235294"/>
+  <unicode hex="0528"/>
+  <outline>
+    <contour>
+      <point x="262.3058823529412" y="690.0" type="line"/>
+      <point x="162.43529411764706" y="690.0" type="line"/>
+      <point x="162.43529411764706" y="88.8" type="line"/>
+      <point x="262.3058823529412" y="88.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="575.0588235294117" y="411.47058823529414" type="line"/>
+      <point x="254.30588235294118" y="411.47058823529414" type="line"/>
+      <point x="254.30588235294118" y="325.0470588235294" type="line"/>
+      <point x="575.0588235294117" y="325.0470588235294" type="line"/>
+    </contour>
+    <contour>
+      <point x="664.8" y="690.0" type="line"/>
+      <point x="564.0588235294117" y="690.0" type="line"/>
+      <point x="564.0588235294117" y="0.0" type="line"/>
+      <point x="664.8" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="262.3058823529412" y="564.7764705882353" type="line"/>
+      <point x="162.43529411764706" y="564.7764705882353" type="line"/>
+      <point x="162.43529411764706" y="21.24705882352941" type="line" smooth="yes"/>
+      <point x="162.43529411764706" y="-24.858823529411765"/>
+      <point x="138.14117647058825" y="-49.15294117647059"/>
+      <point x="87.68235294117648" y="-49.15294117647059" type="curve" smooth="yes"/>
+      <point x="39.258823529411764" y="-49.15294117647059" type="line"/>
+      <point x="28.423529411764704" y="-120.87058823529412" type="line"/>
+      <point x="51.64705882352941" y="-129.09411764705882"/>
+      <point x="98.8" y="-134.7058823529412"/>
+      <point x="126.37647058823529" y="-134.7058823529412" type="curve" smooth="yes"/>
+      <point x="213.6" y="-134.7058823529412"/>
+      <point x="262.3058823529412" y="-78.90588235294118"/>
+      <point x="262.3058823529412" y="25.470588235294116" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

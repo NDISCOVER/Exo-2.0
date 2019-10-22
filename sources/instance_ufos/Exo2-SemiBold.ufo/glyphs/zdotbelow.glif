@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotbelow" format="2">
+  <advance width="517.6"/>
+  <unicode hex="1E93"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotbelowcomb" xOffset="378.46666666666664" yOffset="-11.133333333333333"/>
+  </outline>
+</glyph>

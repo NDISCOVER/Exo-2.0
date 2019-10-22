@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iegrave-cy" format="2">
+  <advance width="561.4470588235295"/>
+  <unicode hex="0400"/>
+  <outline>
+    <component base="Ie-cy"/>
+    <component base="grave" xOffset="99.4" yOffset="191.2235294117647"/>
+  </outline>
+</glyph>

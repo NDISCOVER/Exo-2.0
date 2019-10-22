@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pemiddlehook-cy" format="2">
+  <advance width="1004.1047619047619"/>
+  <unicode hex="04A6"/>
+  <outline>
+    <contour>
+      <point x="709.4857142857143" y="-175.1238095238095" type="line"/>
+      <point x="845.2" y="-154.68571428571428"/>
+      <point x="975.4" y="-91.75238095238095"/>
+      <point x="975.4" y="162.34285714285716" type="curve" smooth="yes"/>
+      <point x="975.4" y="390.55238095238093"/>
+      <point x="898.3333333333334" y="449.12380952380954"/>
+      <point x="786.3238095238095" y="449.12380952380954" type="curve" smooth="yes"/>
+      <point x="725.9809523809524" y="449.12380952380954"/>
+      <point x="646.6380952380953" y="429.6095238095238"/>
+      <point x="584.2285714285714" y="383.73333333333335" type="curve"/>
+      <point x="591.495238095238" y="283.81904761904764" type="line"/>
+      <point x="649.0761904761905" y="316.5238095238095"/>
+      <point x="696.5142857142857" y="325.4"/>
+      <point x="732.1428571428571" y="325.4" type="curve" smooth="yes"/>
+      <point x="797.0380952380953" y="325.4"/>
+      <point x="822.6190476190476" y="303.2761904761905"/>
+      <point x="822.6190476190476" y="160.78095238095239" type="curve" smooth="yes"/>
+      <point x="822.6190476190476" y="0.5333333333333314"/>
+      <point x="786.8" y="-38.37142857142857"/>
+      <point x="688.2666666666667" y="-69.61904761904762" type="curve"/>
+    </contour>
+    <contour>
+      <point x="70.06666666666666" y="0.0" type="line"/>
+      <point x="222.45714285714286" y="0.0" type="line"/>
+      <point x="222.45714285714286" y="690.0" type="line"/>
+      <point x="70.06666666666666" y="690.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="463.9904761904762" y="0.0" type="line"/>
+      <point x="616.9904761904762" y="0.0" type="line"/>
+      <point x="616.9904761904762" y="690.0" type="line"/>
+      <point x="463.9904761904762" y="690.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="214.45714285714286" y="579.6952380952381" type="line"/>
+      <point x="475.3809523809524" y="579.6952380952381" type="line"/>
+      <point x="475.3809523809524" y="690.0" type="line"/>
+      <point x="214.45714285714286" y="690.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

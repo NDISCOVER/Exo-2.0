@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odblgrave" format="2">
+  <advance width="674.9333333333333"/>
+  <unicode hex="020C"/>
+  <outline>
+    <component base="O"/>
+    <component base="dblgrave" xOffset="61.86666666666667" yOffset="194.66666666666666"/>
+  </outline>
+</glyph>

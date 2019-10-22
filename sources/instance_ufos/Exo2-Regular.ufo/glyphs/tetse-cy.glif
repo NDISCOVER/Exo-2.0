@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetse-cy" format="2">
+  <advance width="709.4117647058823"/>
+  <unicode hex="04B5"/>
+  <outline>
+    <contour>
+      <point x="537.9764705882353" y="0.0" type="line"/>
+      <point x="623.5176470588235" y="0.0" type="line"/>
+      <point x="623.5176470588235" y="486.56470588235294" type="line"/>
+      <point x="537.9764705882353" y="486.56470588235294" type="line"/>
+    </contour>
+    <contour>
+      <point x="183.87058823529412" y="0.0" type="line"/>
+      <point x="268.6823529411765" y="0.0" type="line"/>
+      <point x="268.6823529411765" y="486.56470588235294" type="line"/>
+      <point x="183.87058823529412" y="486.56470588235294" type="line"/>
+    </contour>
+    <contour>
+      <point x="262.1411764705882" y="0.0" type="line"/>
+      <point x="687.3764705882353" y="0.0" type="line"/>
+      <point x="687.3764705882353" y="71.6" type="line"/>
+      <point x="262.1411764705882" y="71.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="627.0705882352942" y="-145.89411764705883" type="line"/>
+      <point x="687.3764705882353" y="-145.89411764705883" type="line"/>
+      <point x="687.3764705882353" y="7.0" type="line"/>
+      <point x="618.1529411764706" y="7.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="17.294117647058822" y="420.0705882352941" type="line"/>
+      <point x="435.61176470588236" y="420.0705882352941" type="line"/>
+      <point x="435.61176470588236" y="486.56470588235294" type="line"/>
+      <point x="17.294117647058822" y="486.56470588235294" type="line"/>
+    </contour>
+  </outline>
+</glyph>

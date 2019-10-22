@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexgrave" format="2">
+  <advance width="553.4470588235295"/>
+  <unicode hex="1EC0"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexgrave" xOffset="109.4235294117647" yOffset="208.9294117647059"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I-cy" format="2">
+  <advance width="313.5333333333333"/>
+  <unicode hex="0406"/>
+  <anchor x="157.9904761904762" y="716.3047619047619" name="top"/>
+  <outline>
+    <contour>
+      <point x="249.9047619047619" y="690.0" type="line"/>
+      <point x="63.62857142857143" y="690.0" type="line"/>
+      <point x="63.62857142857143" y="0.0" type="line"/>
+      <point x="249.9047619047619" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

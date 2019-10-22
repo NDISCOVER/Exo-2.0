@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.rvrn" format="2">
+  <advance width="613.8285714285714"/>
+  <outline>
+    <contour>
+      <point x="442.0285714285714" y="578.4" type="line"/>
+      <point x="107.52380952380952" y="25.076190476190476" type="line"/>
+      <point x="145.93333333333334" y="5.0095238095238095" type="line"/>
+      <point x="480.7142857142857" y="558.3333333333334" type="line"/>
+    </contour>
+    <component base="equal" xOffset="19.61904761904762"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Regular [144]</string>
+      <key>public.markColor</key>
+      <string>1,0.475,0.6501,1</string>
+    </dict>
+  </lib>
+</glyph>

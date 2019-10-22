@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.rvrn" format="2">
+  <advance width="621.1529411764706"/>
+  <outline>
+    <contour>
+      <point x="588.0470588235294" y="690.0" type="line"/>
+      <point x="484.3058823529412" y="690.0" type="line"/>
+      <point x="347.3529411764706" y="426.91764705882355" type="line" smooth="yes"/>
+      <point x="335.3529411764706" y="403.3058823529412"/>
+      <point x="325.5764705882353" y="373.08235294117645"/>
+      <point x="315.18823529411765" y="347.6" type="curve"/>
+      <point x="307.5764705882353" y="347.6" type="line"/>
+      <point x="298.05882352941177" y="373.08235294117645"/>
+      <point x="288.2823529411765" y="402.43529411764706"/>
+      <point x="275.2823529411765" y="427.0470588235294" type="curve" smooth="yes"/>
+      <point x="136.58823529411765" y="690.0" type="line"/>
+      <point x="32.84705882352941" y="690.0" type="line"/>
+      <point x="238.6" y="309.8" type="line"/>
+      <point x="386.77647058823527" y="313.2823529411765" type="line"/>
+    </contour>
+    <contour>
+      <point x="361.7529411764706" y="189.2235294117647" type="line"/>
+      <point x="261.88235294117646" y="189.2235294117647" type="line"/>
+      <point x="261.01176470588234" y="0.0" type="line"/>
+      <point x="360.88235294117646" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="535.3764705882353" y="229.95294117647057" type="line"/>
+      <point x="90.6470588235294" y="229.95294117647057" type="line"/>
+      <point x="91.51764705882353" y="155.10588235294117" type="line"/>
+      <point x="535.3764705882353" y="155.10588235294117" type="line"/>
+    </contour>
+    <contour>
+      <point x="535.3764705882353" y="344.3058823529412" type="line"/>
+      <point x="90.6470588235294" y="344.3058823529412" type="line"/>
+      <point x="91.51764705882353" y="268.5882352941176" type="line"/>
+      <point x="535.3764705882353" y="268.5882352941176" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Regular [144]</string>
+      <key>public.markColor</key>
+      <string>1,0.475,0.6501,1</string>
+    </dict>
+  </lib>
+</glyph>
