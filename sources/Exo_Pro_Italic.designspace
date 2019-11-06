@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="250" maximum="900" default="400">
-      <map input="250" output="24"/>
-      <map input="275" output="40"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400">
+      <map input="100" output="24"/>
+      <map input="200" output="40"/>
       <map input="300" output="64"/>
       <map input="400" output="86"/>
       <map input="500" output="98"/>
@@ -76,10 +76,10 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
-            <real>0.18824</real>
+            <key>54A40BFF-1CE0-48F0-82EB-25AA62455493</key>
+            <real>0.25806</real>
             <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
-            <real>0.81176</real>
+            <real>0.74194</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -102,10 +102,10 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
-            <real>0.47059</real>
+            <key>54A40BFF-1CE0-48F0-82EB-25AA62455493</key>
+            <real>0.64516</real>
             <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
-            <real>0.52941</real>
+            <real>0.35484</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -128,10 +128,8 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
-            <real>0.72941</real>
-            <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
-            <real>0.27059</real>
+            <key>54A40BFF-1CE0-48F0-82EB-25AA62455493</key>
+            <integer>1</integer>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -154,10 +152,10 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
+            <key>54A40BFF-1CE0-48F0-82EB-25AA62455493</key>
+            <real>0.47826</real>
             <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
-            <real>0.87059</real>
-            <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
-            <real>0.12941</real>
+            <real>0.52174</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
