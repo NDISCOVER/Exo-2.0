@@ -2,20 +2,22 @@
 set -e
 
 
-# echo "Generating Static fonts"
-# mkdir -p ../fonts
-# fontmake -m Exo_Pro.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Exo_Pro.designspace -i -o otf --output-dir ../fonts/otf/
-# fontmake -m Exo_Pro-Italic.designspace -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Exo_Pro-Italic.designspace -o otf --output-dir ../fonts/otf/
+echo "Generating Static fonts"
+mkdir -p ../fonts
+fontmake -m Exo_Pro.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m Exo_Pro.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Exo_Pro_Italic.designspace -o ttf --output-dir ../fonts/ttf/
+fontmake -m Exo_Pro_Italic.designspace -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-# mkdir -p ../fonts/vf
+mkdir -p ../fonts/vf
 fontmake -m Exo_Pro.designspace -o variable --output-path ../fonts/vf/Exo_Pro[wght].ttf
-# fontmake -m Exo_Pro-Italic.designspace -o variable --output-path ../fonts/vf/Exo_Pro-Italic[wght].ttf
+fontmake -m Exo_Pro_Italic.designspace -o variable --output-path ../fonts/vf/Exo_Pro-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
+
+##### getting error for fixing VF meta Fixing VF Meta: Exception: Fonts have different family_names: [Exo_Pro-Italic[wght].ttf, Exo_Pro[wght].ttf]
 
 # echo "Post processing"
 # ttfs=$(ls ../fonts/ttf/*.ttf)
