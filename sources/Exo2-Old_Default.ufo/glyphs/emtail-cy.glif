@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emtail-cy" format="2">
+  <advance width="768"/>
+  <unicode hex="04CE"/>
+  <outline>
+    <contour>
+      <point x="604" y="90" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="646" y="-144" type="line"/>
+      <point x="722" y="-144" type="line"/>
+      <point x="773" y="0" type="line"/>
+      <point x="773" y="90" type="line"/>
+    </contour>
+    <component base="em-cy"/>
+  </outline>
+</glyph>

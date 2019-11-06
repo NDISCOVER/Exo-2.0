@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pemiddlehook-cy" format="2">
+  <advance width="915"/>
+  <unicode hex="04A7"/>
+  <outline>
+    <contour>
+      <point x="570" y="-180" type="line"/>
+      <point x="710" y="-163"/>
+      <point x="850" y="-85"/>
+      <point x="884" y="156" type="curve" smooth="yes"/>
+      <point x="907" y="320"/>
+      <point x="867" y="408"/>
+      <point x="737" y="408" type="curve" smooth="yes"/>
+      <point x="679" y="408"/>
+      <point x="613" y="385"/>
+      <point x="570" y="348" type="curve"/>
+      <point x="553" y="227" type="line"/>
+      <point x="593" y="248"/>
+      <point x="624" y="251"/>
+      <point x="644" y="251" type="curve" smooth="yes"/>
+      <point x="682" y="251"/>
+      <point x="689" y="224"/>
+      <point x="679" y="152" type="curve" smooth="yes"/>
+      <point x="664" y="43"/>
+      <point x="650" y="-3"/>
+      <point x="569" y="-45" type="curve"/>
+    </contour>
+    <component base="pe-cy" xOffset="-3"/>
+  </outline>
+</glyph>

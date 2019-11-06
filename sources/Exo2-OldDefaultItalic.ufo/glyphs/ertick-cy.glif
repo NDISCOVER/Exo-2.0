@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <advance width="619"/>
+  <unicode hex="048F"/>
+  <outline>
+    <contour>
+      <point x="274" y="171" type="line"/>
+      <point x="468" y="-104" type="line"/>
+      <point x="517" y="-69" type="line"/>
+      <point x="323" y="206" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="501" type="curve" smooth="yes"/>
+      <point x="291" y="501"/>
+      <point x="165" y="390"/>
+      <point x="127" y="322" type="curve"/>
+      <point x="150" y="277" type="line"/>
+      <point x="233" y="361"/>
+      <point x="319" y="408"/>
+      <point x="364" y="408" type="curve" smooth="yes"/>
+      <point x="417" y="408"/>
+      <point x="431" y="388"/>
+      <point x="411" y="245" type="curve" smooth="yes"/>
+      <point x="390" y="92"/>
+      <point x="368" y="75"/>
+      <point x="245" y="75" type="curve" smooth="yes"/>
+      <point x="222" y="75"/>
+      <point x="154" y="76"/>
+      <point x="80" y="78" type="curve"/>
+      <point x="52" y="15" type="line"/>
+      <point x="116" y="-1"/>
+      <point x="218" y="-13"/>
+      <point x="286" y="-13" type="curve" smooth="yes"/>
+      <point x="405" y="-13"/>
+      <point x="489" y="12"/>
+      <point x="520" y="238" type="curve" smooth="yes"/>
+      <point x="549" y="449"/>
+      <point x="501" y="501"/>
+    </contour>
+    <contour>
+      <point x="184" y="489" type="line"/>
+      <point x="99" y="489" type="line"/>
+      <point x="1" y="-197" type="line"/>
+      <point x="109" y="-197" type="line"/>
+      <point x="126" y="-93" type="line" smooth="yes"/>
+      <point x="132" y="-55"/>
+      <point x="133" y="-23"/>
+      <point x="133" y="12" type="curve"/>
+      <point x="143" y="28" type="line"/>
+      <point x="191" y="379" type="line"/>
+      <point x="180" y="388" type="line"/>
+    </contour>
+  </outline>
+</glyph>

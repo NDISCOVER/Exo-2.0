@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="292.71765"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="l"/>
+    <component base="comma" xScale="0.909" yScale="0.85794" xOffset="244" yOffset="599"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

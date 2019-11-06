@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy" format="2">
+  <advance width="658"/>
+  <unicode hex="052F"/>
+  <outline>
+    <contour>
+      <point x="630" y="136" type="line"/>
+      <point x="395" y="136" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="453" y="-136" type="line"/>
+      <point x="592" y="-136" type="line"/>
+    </contour>
+    <component base="el-cy"/>
+  </outline>
+</glyph>

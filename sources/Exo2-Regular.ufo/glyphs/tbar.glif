@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="381.28235"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="330" y="305" type="line"/>
+      <point x="50" y="305" type="line"/>
+      <point x="50" y="257" type="line"/>
+      <point x="330" y="257" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

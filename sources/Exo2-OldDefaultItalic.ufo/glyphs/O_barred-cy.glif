@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarred-cy" format="2">
+  <advance width="668"/>
+  <unicode hex="04E8"/>
+  <anchor x="395" y="732" name="top"/>
+  <outline>
+    <contour>
+      <point x="88" y="302" type="line"/>
+      <point x="571" y="302" type="line"/>
+      <point x="571" y="378" type="line"/>
+      <point x="88" y="378" type="line"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

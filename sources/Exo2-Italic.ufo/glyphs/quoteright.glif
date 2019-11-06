@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="214.88235"/>
+  <unicode hex="2019"/>
+  <outline>
+    <component base="comma" xScale="0.99066" yScale="0.93362" xOffset="78" yOffset="606"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

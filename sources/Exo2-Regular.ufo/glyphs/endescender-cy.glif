@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy" format="2">
+  <advance width="589.34118"/>
+  <unicode hex="04A3"/>
+  <outline>
+    <contour>
+      <point x="568" y="68" type="line"/>
+      <point x="447" y="68" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="568" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="5" type="line"/>
+      <point x="503" y="5" type="line"/>
+      <point x="512" y="-144" type="line"/>
+      <point x="568" y="-144" type="line"/>
+    </contour>
+    <component base="en-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="621.96471"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <contour>
+      <point x="244" y="120" type="line"/>
+      <point x="301" y="120" type="line"/>
+      <point x="356" y="510" type="line"/>
+      <point x="300" y="510" type="line"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

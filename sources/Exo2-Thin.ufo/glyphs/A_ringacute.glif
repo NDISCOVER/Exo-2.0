@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="603"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="323" y="630" type="curve" smooth="yes"/>
+      <point x="280" y="630" type="line" smooth="yes"/>
+      <point x="274" y="630"/>
+      <point x="269" y="627"/>
+      <point x="267" y="621" type="curve" smooth="yes"/>
+      <point x="19" y="0" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="267" y="552" type="line" smooth="yes"/>
+      <point x="275" y="571"/>
+      <point x="280" y="589"/>
+      <point x="287" y="608" type="curve"/>
+      <point x="316" y="608" type="line"/>
+      <point x="323" y="589"/>
+      <point x="328" y="571"/>
+      <point x="336" y="552" type="curve" smooth="yes"/>
+      <point x="557" y="0" type="line"/>
+      <point x="584" y="0" type="line"/>
+      <point x="336" y="621" type="line" smooth="yes"/>
+      <point x="334" y="627"/>
+      <point x="329" y="630"/>
+    </contour>
+    <contour>
+      <point x="486" y="214" type="line"/>
+      <point x="116" y="214" type="line"/>
+      <point x="116" y="192" type="line"/>
+      <point x="486" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="960" type="line"/>
+      <point x="255" y="870" type="line"/>
+      <point x="266" y="854" type="line"/>
+      <point x="400" y="939" type="line"/>
+    </contour>
+    <component base="ring" xOffset="160" yOffset="109"/>
+  </outline>
+</glyph>

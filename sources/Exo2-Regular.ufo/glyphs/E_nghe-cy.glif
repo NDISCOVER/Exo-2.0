@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="863.05882"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="470" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="545" type="line" smooth="yes"/>
+      <point x="558" y="596"/>
+      <point x="578" y="616"/>
+      <point x="625" y="616" type="curve" smooth="yes"/>
+      <point x="838" y="616" type="line"/>
+      <point x="843" y="684" type="line"/>
+      <point x="765" y="691"/>
+      <point x="679" y="691"/>
+      <point x="596" y="691" type="curve" smooth="yes"/>
+      <point x="523" y="691"/>
+      <point x="470" y="638"/>
+      <point x="470" y="561" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="175" y="690" type="line"/>
+      <point x="87" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="331" type="line"/>
+      <point x="481" y="331" type="line"/>
+      <point x="481" y="407" type="line"/>
+      <point x="167" y="407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

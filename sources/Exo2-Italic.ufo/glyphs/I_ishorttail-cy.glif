@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishorttail-cy" format="2">
+  <advance width="689.67059"/>
+  <unicode hex="048A"/>
+  <outline>
+    <contour>
+      <point x="491" y="72" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="520" y="-151" type="line"/>
+      <point x="580" y="-151" type="line"/>
+      <point x="648" y="1" type="line"/>
+      <point x="658" y="72" type="line"/>
+    </contour>
+    <component base="Ii-cy"/>
+    <component base="brevecomb-cy" xOffset="76" yOffset="248"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

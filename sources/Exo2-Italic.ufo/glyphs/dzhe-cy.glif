@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzhe-cy" format="2">
+  <advance width="569.85882"/>
+  <unicode hex="045F"/>
+  <outline>
+    <contour>
+      <point x="291" y="-41" type="line"/>
+      <point x="233" y="-41" type="line"/>
+      <point x="198" y="-226" type="line"/>
+      <point x="273" y="-226" type="line"/>
+    </contour>
+    <component base="u" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="250" maximum="900" default="400">
+      <map input="250" output="24"/>
+      <map input="275" output="40"/>
+      <map input="300" output="64"/>
+      <map input="400" output="86"/>
+      <map input="500" output="98"/>
+      <map input="600" output="123"/>
+      <map input="700" output="150"/>
+      <map input="800" output="185"/>
+      <map input="900" output="214"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Exo2-LightItalic.ufo" name="Exo 2 Thin Italic" familyname="Exo 2" stylename="Thin Italic">
+      <location>
+        <dimension name="Weight" xvalue="24"/>
+      </location>
+    </source>
+    <source filename="Exo2-Italic.ufo" name="Exo 2 Italic" familyname="Exo 2" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="86"/>
+      </location>
+    </source>
+    <source filename="Exo2-OldDefaultItalic.ufo" name="Exo 2 Old Default Italic" familyname="Exo 2" stylename="Old Default Italic">
+      <location>
+        <dimension name="Weight" xvalue="109"/>
+      </location>
+    </source>
+    <source filename="Exo2-BoldItalic.ufo" name="Exo 2 Black Italic" familyname="Exo 2" stylename="Black Italic">
+      <location>
+        <dimension name="Weight" xvalue="214"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Exo 2 Thin Italic" familyname="Exo 2" stylename="Thin Italic" filename="instance_ufos/Exo2-ThinItalic.ufo" stylemapfamilyname="Exo 2 Thin" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="24"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>UltraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Exo 2 ExtraLight Italic" familyname="Exo 2" stylename="ExtraLight Italic" filename="instance_ufos/Exo2-ExtraLightItalic.ufo" stylemapfamilyname="Exo 2 Extra Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="40"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
+            <real>0.18824</real>
+            <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
+            <real>0.81176</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Exo 2 Light Italic" familyname="Exo 2" stylename="Light Italic" filename="instance_ufos/Exo2-LightItalic.ufo" stylemapfamilyname="Exo 2 Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="64"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
+            <real>0.47059</real>
+            <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
+            <real>0.52941</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Exo 2 Italic" familyname="Exo 2" stylename="Italic" filename="instance_ufos/Exo2-Italic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="86"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
+            <real>0.72941</real>
+            <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
+            <real>0.27059</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Exo 2 Medium Italic" familyname="Exo 2" stylename="Medium Italic" filename="instance_ufos/Exo2-MediumItalic.ufo" stylemapfamilyname="Exo 2 Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="98"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
+            <real>0.87059</real>
+            <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
+            <real>0.12941</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Exo 2 SemiBold Italic" familyname="Exo 2" stylename="SemiBold Italic" filename="instance_ufos/Exo2-SemiBoldItalic.ufo" stylemapfamilyname="Exo 2 Semi Bold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="123"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
+            <real>0.86667</real>
+            <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
+            <real>0.13333</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Exo 2 Bold Italic" familyname="Exo 2" stylename="Bold Italic" filename="instance_ufos/Exo2-BoldItalic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
+            <real>0.60952</real>
+            <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
+            <real>0.39048</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Exo 2 ExtraBold Italic" familyname="Exo 2" stylename="ExtraBold Italic" filename="instance_ufos/Exo2-ExtraBoldItalic.ufo" stylemapfamilyname="Exo 2 Extra Bold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="185"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
+            <real>0.27619</real>
+            <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
+            <real>0.72381</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Exo 2 Black Italic" familyname="Exo 2" stylename="Black Italic" filename="instance_ufos/Exo2-BlackItalic.ufo" stylemapfamilyname="Exo 2 Black" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="214"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
+        <dict>
+          <key>HV</key>
+          <integer>32</integer>
+        </dict>
+        <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
+        <dict>
+          <key>HV</key>
+          <integer>32</integer>
+        </dict>
+        <key>E21536AE-9819-4FE7-8A20-8865FE3C0515</key>
+        <dict>
+          <key>HV</key>
+          <integer>32</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

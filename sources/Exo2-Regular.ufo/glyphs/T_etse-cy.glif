@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetse-cy" format="2">
+  <advance width="817.10588"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="625" y="0" type="line"/>
+      <point x="713" y="0" type="line"/>
+      <point x="713" y="690" type="line"/>
+      <point x="625" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="306" y="690" type="line"/>
+      <point x="218" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="line"/>
+      <point x="797" y="0" type="line"/>
+      <point x="797" y="72" type="line"/>
+      <point x="298" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="737" y="-151" type="line"/>
+      <point x="797" y="-151" type="line"/>
+      <point x="797" y="7" type="line"/>
+      <point x="728" y="7" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="612" type="line"/>
+      <point x="525" y="612" type="line"/>
+      <point x="525" y="690" type="line"/>
+      <point x="24" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

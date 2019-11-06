@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horn" format="2">
+  <advance width="311"/>
+  <anchor x="139" y="561" name="_top"/>
+  <outline>
+    <contour>
+      <point x="69" y="379" type="line"/>
+      <point x="185" y="366"/>
+      <point x="280" y="427"/>
+      <point x="302" y="540" type="curve"/>
+      <point x="180" y="556" type="line"/>
+      <point x="169" y="511"/>
+      <point x="132" y="464"/>
+      <point x="80" y="462" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

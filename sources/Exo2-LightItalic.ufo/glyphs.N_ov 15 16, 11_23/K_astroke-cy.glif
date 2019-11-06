@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="573"/>
+  <unicode hex="049E"/>
+  <outline>
+    <contour>
+      <point x="15" y="600" type="line"/>
+      <point x="215" y="600" type="line"/>
+      <point x="215" y="621" type="line"/>
+      <point x="15" y="621" type="line"/>
+    </contour>
+    <component base="Ka-cy"/>
+  </outline>
+</glyph>

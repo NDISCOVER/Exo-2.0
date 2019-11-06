@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="666.48235"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="692" y="566" type="line"/>
+      <point x="58" y="566" type="line"/>
+      <point x="51" y="519" type="line"/>
+      <point x="686" y="519" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzhe-cy" format="2">
+  <advance width="677"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="596" y="690" type="line"/>
+      <point x="484" y="690" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="596" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="7" type="line"/>
+      <point x="298" y="7" type="line"/>
+      <point x="304" y="-151" type="line"/>
+      <point x="380" y="-151" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="90" type="line"/>
+      <point x="184" y="90" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="564" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="690" type="line"/>
+      <point x="81" y="690" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

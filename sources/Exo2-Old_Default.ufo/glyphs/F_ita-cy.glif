@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fita-cy" format="2">
+  <advance width="670"/>
+  <unicode hex="0472"/>
+  <outline>
+    <contour>
+      <point x="139" y="307" type="line"/>
+      <point x="529" y="307" type="line"/>
+      <point x="529" y="391" type="line"/>
+      <point x="139" y="391" type="line"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

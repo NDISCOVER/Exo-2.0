@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversedze-cy" format="2">
+  <advance width="497.12941"/>
+  <unicode hex="0511"/>
+  <outline>
+    <component base="ze-cy" xScale="-1" yxScale="0.2811" xOffset="423"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enghe-cy" format="2">
+  <advance width="760"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <contour>
+      <point x="152" y="480" type="line"/>
+      <point x="128" y="480" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="267" type="line"/>
+      <point x="116" y="267" type="line"/>
+      <point x="113" y="246" type="line"/>
+      <point x="438" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="480" type="curve" smooth="yes"/>
+      <point x="496" y="480"/>
+      <point x="457" y="445"/>
+      <point x="449" y="386" type="curve" smooth="yes"/>
+      <point x="394" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="472" y="383" type="line" smooth="yes"/>
+      <point x="479" y="434"/>
+      <point x="506" y="458"/>
+      <point x="556" y="458" type="curve" smooth="yes"/>
+      <point x="761" y="458" type="line"/>
+      <point x="763" y="477" type="line"/>
+      <point x="692" y="480"/>
+      <point x="625" y="480"/>
+    </contour>
+  </outline>
+</glyph>

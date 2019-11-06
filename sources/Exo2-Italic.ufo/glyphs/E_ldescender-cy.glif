@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eldescender-cy" format="2">
+  <advance width="679.01176"/>
+  <unicode hex="052E"/>
+  <outline>
+    <contour>
+      <point x="610" y="72" type="line"/>
+      <point x="445" y="72" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="601" y="7" type="line"/>
+      <point x="531" y="7" type="line"/>
+      <point x="518" y="-151" type="line"/>
+      <point x="579" y="-151" type="line"/>
+    </contour>
+    <component base="El-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

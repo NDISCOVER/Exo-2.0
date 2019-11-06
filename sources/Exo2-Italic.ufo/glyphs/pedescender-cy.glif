@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pedescender-cy" format="2">
+  <advance width="582.23529"/>
+  <unicode hex="0525"/>
+  <outline>
+    <contour>
+      <point x="540" y="68" type="line"/>
+      <point x="419" y="68" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="454" y="-144" type="line"/>
+      <point x="510" y="-144" type="line"/>
+    </contour>
+    <component base="pe-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

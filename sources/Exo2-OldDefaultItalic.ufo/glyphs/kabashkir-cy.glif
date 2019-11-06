@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkir-cy" format="2">
+  <advance width="637"/>
+  <unicode hex="04A1"/>
+  <outline>
+    <contour>
+      <point x="626" y="489" type="curve"/>
+      <point x="516" y="489" type="line"/>
+      <point x="452" y="355"/>
+      <point x="420" y="295"/>
+      <point x="331" y="295" type="curve"/>
+      <point x="321" y="213" type="line"/>
+      <point x="413" y="214"/>
+      <point x="424" y="165"/>
+      <point x="460" y="0" type="curve"/>
+      <point x="573" y="0" type="line"/>
+      <point x="534" y="184"/>
+      <point x="522" y="241"/>
+      <point x="413" y="253" type="curve"/>
+      <point x="414" y="256" type="line"/>
+      <point x="519" y="269"/>
+      <point x="547" y="329"/>
+    </contour>
+    <contour>
+      <point x="308" y="489" type="line"/>
+      <point x="201" y="489" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="263" y="169" type="line" smooth="yes"/>
+      <point x="267" y="195"/>
+      <point x="266" y="227"/>
+      <point x="261" y="256" type="curve"/>
+      <point x="275" y="286"/>
+      <point x="284" y="319"/>
+      <point x="289" y="351" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="365" y="295" type="line"/>
+      <point x="252" y="295" type="line"/>
+      <point x="241" y="213" type="line"/>
+      <point x="354" y="213" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="489" type="line"/>
+      <point x="23" y="405" type="line"/>
+      <point x="246" y="405" type="line"/>
+      <point x="257" y="489" type="line"/>
+    </contour>
+  </outline>
+</glyph>

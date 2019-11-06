@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraitstroke-cy" format="2">
+  <advance width="560"/>
+  <unicode hex="04B1"/>
+  <guideline x="282" y="289" angle="34.2045"/>
+  <outline>
+    <contour>
+      <point x="553" y="480" type="line"/>
+      <point x="525" y="480" type="line"/>
+      <point x="298" y="147" type="line" smooth="yes"/>
+      <point x="284" y="126"/>
+      <point x="266" y="99"/>
+      <point x="251" y="77" type="curve"/>
+      <point x="245" y="77" type="line"/>
+      <point x="236" y="99"/>
+      <point x="226" y="124"/>
+      <point x="217" y="146" type="curve" smooth="yes"/>
+      <point x="83" y="480" type="line"/>
+      <point x="57" y="480" type="line"/>
+      <point x="235" y="41" type="line"/>
+      <point x="253" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="71" type="line"/>
+      <point x="236" y="71" type="line"/>
+      <point x="196" y="-210" type="line"/>
+      <point x="221" y="-210" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="53" type="line"/>
+      <point x="70" y="53" type="line"/>
+      <point x="67" y="33" type="line"/>
+      <point x="417" y="33" type="line"/>
+    </contour>
+  </outline>
+</glyph>
