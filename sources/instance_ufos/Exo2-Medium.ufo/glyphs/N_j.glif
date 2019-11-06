@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Nj" format="2">
-  <advance width="963.7176470588236"/>
-  <unicode hex="01CB"/>
-  <outline>
-    <component base="N"/>
-    <component base="j" xOffset="708.0235294117647"/>
-  </outline>
-</glyph>

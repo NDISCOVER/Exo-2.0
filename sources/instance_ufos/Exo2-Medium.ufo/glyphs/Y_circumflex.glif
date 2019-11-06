@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ycircumflex" format="2">
-  <advance width="574.0823529411765"/>
-  <unicode hex="0176"/>
-  <outline>
-    <component base="Y"/>
-    <component base="circumflex" xOffset="74.87058823529412" yOffset="172.51764705882354"/>
-  </outline>
-</glyph>

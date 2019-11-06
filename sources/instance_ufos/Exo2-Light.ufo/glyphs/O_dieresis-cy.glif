@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Odieresis-cy" format="2">
-  <advance width="666.2941176470588"/>
-  <unicode hex="04E6"/>
-  <outline>
-    <component base="O-cy"/>
-    <component base="dieresiscomb" xOffset="553.2352941176471" yOffset="179.23529411764707"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Lcommaaccent" format="2">
-  <advance width="512"/>
-  <unicode hex="013B"/>
-  <outline>
-    <component base="L"/>
-    <component base="comma" xScale="0.909" yScale="0.839" xOffset="180" yOffset="-166"/>
-  </outline>
-</glyph>

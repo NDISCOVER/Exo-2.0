@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="idotaccent" format="2">
-  <advance width="277.57142857142856"/>
-  <outline>
-    <component base="idotless"/>
-    <component base="dotaccent" xOffset="20.733333333333334" yOffset="5.514285714285714"/>
-  </outline>
-</glyph>

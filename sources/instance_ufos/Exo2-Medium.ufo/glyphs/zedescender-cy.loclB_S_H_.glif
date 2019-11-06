@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zedescender-cy.loclBSH" format="2">
-  <advance width="500.7294117647059"/>
-  <outline>
-    <component base="ze-cy"/>
-    <component base="cedilla" xOffset="119.09411764705882"/>
-  </outline>
-</glyph>

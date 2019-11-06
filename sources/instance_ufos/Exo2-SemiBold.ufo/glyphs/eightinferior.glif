@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="eightinferior" format="2">
-  <advance width="431.4"/>
-  <unicode hex="2088"/>
-  <outline>
-    <component base="eightsuperior" yOffset="-430.1333333333333"/>
-  </outline>
-</glyph>

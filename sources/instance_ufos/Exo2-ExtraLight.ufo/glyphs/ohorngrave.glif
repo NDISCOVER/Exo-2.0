@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ohorngrave" format="2">
-  <advance width="565.0823529411765"/>
-  <unicode hex="1EDD"/>
-  <outline>
-    <component base="ohorn"/>
-    <component base="grave" xOffset="96.67058823529412" yOffset="4.564705882352941"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="seveninferior" format="2">
-  <advance width="372.74117647058824"/>
-  <unicode hex="2087"/>
-  <outline>
-    <component base="sevensuperior" yOffset="-430.0"/>
-  </outline>
-</glyph>

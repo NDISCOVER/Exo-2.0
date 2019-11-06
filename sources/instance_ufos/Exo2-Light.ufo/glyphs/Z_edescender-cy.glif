@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Zedescender-cy" format="2">
-  <advance width="547.7647058823529"/>
-  <unicode hex="0498"/>
-  <outline>
-    <component base="Ze-cy"/>
-    <component base="cedilla" xOffset="133.47058823529412"/>
-  </outline>
-</glyph>

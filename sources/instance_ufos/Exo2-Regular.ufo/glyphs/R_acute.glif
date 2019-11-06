@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Racute" format="2">
-  <advance width="617.9411764705883"/>
-  <unicode hex="0154"/>
-  <outline>
-    <component base="R"/>
-    <component base="acute" xOffset="182.6" yOffset="190.3764705882353"/>
-  </outline>
-</glyph>

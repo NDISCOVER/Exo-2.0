@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="otildemacron" format="2">
-  <advance width="565.1764705882352"/>
-  <unicode hex="022D"/>
-  <outline>
-    <component base="o"/>
-    <component base="tildemacron" xOffset="76.11764705882354" yOffset="4.9411764705882355"/>
-  </outline>
-</glyph>

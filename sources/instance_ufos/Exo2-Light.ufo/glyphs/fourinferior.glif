@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="fourinferior" format="2">
-  <advance width="418.5882352941176"/>
-  <unicode hex="2084"/>
-  <outline>
-    <component base="foursuperior" yOffset="-430.0"/>
-  </outline>
-</glyph>

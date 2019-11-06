@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ldot" format="2">
-  <advance width="319.63529411764705"/>
-  <unicode hex="0140"/>
-  <outline>
-    <component base="dotaccent" xScale="-1.0" yScale="-1.0" xOffset="389.38823529411764" yOffset="1020.8117647058823"/>
-    <component base="l"/>
-  </outline>
-</glyph>

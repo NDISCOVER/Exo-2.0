@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Iigrave-cy" format="2">
-  <advance width="678"/>
-  <unicode hex="040D"/>
-  <outline>
-    <component base="Ii-cy"/>
-    <component base="grave" xOffset="163" yOffset="186"/>
-  </outline>
-</glyph>

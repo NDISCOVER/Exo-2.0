@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Uinvertedbreve" format="2">
-  <advance width="694.2285714285714"/>
-  <unicode hex="0216"/>
-  <outline>
-    <component base="U"/>
-    <component base="breveinvertedcomb" xOffset="564.1047619047619" yOffset="198.85714285714286"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Reversedze-cy" format="2">
-  <advance width="545.5058823529412"/>
-  <unicode hex="0510"/>
-  <outline>
-    <component base="Ze-cy" xScale="-1.0" xOffset="545.5058823529412"/>
-  </outline>
-</glyph>

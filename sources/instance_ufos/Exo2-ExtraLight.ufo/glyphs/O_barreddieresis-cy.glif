@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Obarreddieresis-cy" format="2">
-  <advance width="657.3176470588236"/>
-  <unicode hex="04EA"/>
-  <outline>
-    <component base="Obarred-cy"/>
-    <component base="dieresiscomb" xOffset="549.3058823529411" yOffset="181.49411764705883"/>
-  </outline>
-</glyph>

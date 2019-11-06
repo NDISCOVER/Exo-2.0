@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ushort-cy" format="2">
-  <advance width="573"/>
-  <unicode hex="040E"/>
-  <outline>
-    <component base="U-cy"/>
-    <component base="breve" xOffset="111" yOffset="188"/>
-  </outline>
-</glyph>

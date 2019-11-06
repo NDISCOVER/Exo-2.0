@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Abrevehookabove" format="2">
-  <advance width="668.0857142857143"/>
-  <unicode hex="1EB2"/>
-  <outline>
-    <component base="A"/>
-    <component base="brevehook" xOffset="133.13333333333333" yOffset="196.92380952380952"/>
-  </outline>
-</glyph>

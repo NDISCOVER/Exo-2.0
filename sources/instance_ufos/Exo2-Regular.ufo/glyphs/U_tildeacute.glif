@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Utildeacute" format="2">
-  <advance width="666.2705882352941"/>
-  <unicode hex="1E78"/>
-  <outline>
-    <component base="U"/>
-    <component base="tildeacute" xOffset="124.05882352941177" yOffset="189.64705882352942"/>
-  </outline>
-</glyph>

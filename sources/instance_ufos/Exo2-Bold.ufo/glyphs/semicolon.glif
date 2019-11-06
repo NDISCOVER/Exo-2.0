@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="semicolon" format="2">
-  <advance width="259.32380952380953"/>
-  <unicode hex="003B"/>
-  <outline>
-    <component base="period" xOffset="8.17142857142857" yOffset="299.55238095238093"/>
-    <component base="comma" xOffset="8.17142857142857"/>
-  </outline>
-</glyph>

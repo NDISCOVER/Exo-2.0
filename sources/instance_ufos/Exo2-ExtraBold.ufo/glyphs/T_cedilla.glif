@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Tcedilla" format="2">
-  <advance width="613.0571428571428"/>
-  <unicode hex="0162"/>
-  <outline>
-    <component base="T"/>
-    <component base="cedilla" xOffset="161.89523809523808" yOffset="-14.476190476190476"/>
-  </outline>
-</glyph>

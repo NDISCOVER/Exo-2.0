@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="second" format="2">
-  <advance width="384.7142857142857"/>
-  <unicode hex="2033"/>
-  <outline>
-    <component base="quotedbl"/>
-  </outline>
-</glyph>

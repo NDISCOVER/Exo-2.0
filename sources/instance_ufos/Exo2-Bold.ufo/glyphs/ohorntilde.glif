@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ohorntilde" format="2">
-  <advance width="613.1619047619048"/>
-  <unicode hex="1EE1"/>
-  <outline>
-    <component base="ohorn"/>
-    <component base="tildecomb" xOffset="518.8095238095239" yOffset="-2.0476190476190474"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="quotesinglbase" format="2">
-  <advance width="235.46666666666667"/>
-  <unicode hex="201A"/>
-  <outline>
-    <component base="comma" xScale="0.9864666666666666" yScale="0.9211333333333334" xOffset="0.8" yOffset="0.8666666666666667"/>
-  </outline>
-</glyph>

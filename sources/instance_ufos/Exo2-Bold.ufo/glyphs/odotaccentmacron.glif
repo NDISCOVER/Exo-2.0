@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="odotaccentmacron" format="2">
-  <advance width="586.6190476190476"/>
-  <unicode hex="0231"/>
-  <outline>
-    <component base="o"/>
-    <component base="dotaccentmacron" xOffset="89.15238095238095" yOffset="1.314285714285714"/>
-  </outline>
-</glyph>

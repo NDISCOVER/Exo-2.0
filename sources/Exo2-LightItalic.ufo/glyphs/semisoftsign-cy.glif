@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="semisoftsign-cy" format="2">
-  <advance width="490"/>
-  <unicode hex="048D"/>
-  <outline>
-    <component base="yat-cy"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ahookabove" format="2">
-  <advance width="650.0857142857143"/>
-  <unicode hex="1EA2"/>
-  <outline>
-    <component base="A"/>
-    <component base="hook" xOffset="237.59047619047618" yOffset="191.93333333333334"/>
-  </outline>
-</glyph>
