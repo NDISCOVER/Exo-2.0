@@ -2,22 +2,21 @@
 set -e
 
 
-# echo "Generating Static fonts"
-# mkdir -p ../fonts
-# fontmake -m Exo_Pro.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Exo_Pro.designspace -i -o otf --output-dir ../fonts/otf/
-# fontmake -m Exo_Pro_Italic.designspace -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Exo_Pro_Italic.designspace -o otf --output-dir ../fonts/otf/
+echo "Generating Static fonts"
+mkdir -p ../fonts
+fontmake -m Exo_Pro.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m Exo_Pro.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Exo_Pro_Italic.designspace -o ttf --output-dir ../fonts/ttf/
+fontmake -m Exo_Pro_Italic.designspace -o otf --output-dir ../fonts/otf/
 
-# echo "Generating VFs"
-# mkdir -p ../fonts/vf
-# fontmake -m Exo_Pro.designspace -o variable --output-path ../fonts/vf/ExoPro[wght].ttf
-# fontmake -m Exo_Pro_Italic.designspace -o variable --output-path ../fonts/vf/ExoPro-Italic[wght].ttf
+echo "Generating VFs"
+mkdir -p ../fonts/vf
+fontmake -m Exo_Pro.designspace -o variable --output-path ../fonts/vf/Exo2[wght].ttf
+fontmake -m Exo_Pro_Italic.designspace -o variable --output-path ../fonts/vf/Exo2-Italic[wght].ttf
 
-# rm -rf master_ufo/ instance_ufo/ instance_ufos/*
+rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
 
-##### getting error for fixing VF meta Fixing VF Meta: Exception: Fonts have different family_names: [Exo_Pro-Italic[wght].ttf, Exo_Pro[wght].ttf]
 
 echo "Post processing"
 ttfs=$(ls ../fonts/ttf/*.ttf)
@@ -28,20 +27,30 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
+for ttf in $ttfs
+do
+	gftools fix-hinting $ttf;
+	#mv "$ttf.fix" $ttf;
+done
+
+
+
 vfs=$(ls ../fonts/vf/*\[wght\].ttf)
 
 echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
+	ttfautohint --stem-width-mode nnn $vf "$vf.fix";
 	mv "$vf.fix" $vf;
 done
 
 
 
-# echo "Fixing VF Meta"
-# gftools fix-vf-meta $vfs;
+# ##### getting error for fixing VF meta Fixing VF Meta: Exception: Fonts have different family_names: [Exo_Pro-Italic[wght].ttf, Exo_Pro[wght].ttf]
+
+# # echo "Fixing VF Meta"
+# # gftools fix-vf-meta $vfs;
 
 echo "Dropping MVAR"
 for vf in $vfs
@@ -55,14 +64,13 @@ do
 	rm $new_file
 done
 
+
+
 echo "Fixing Hinting"
-for vf in $vfs
+FONTSVF=$(ls ../fonts/vf/*.ttf)
+for font in $FONTSVF
 do
-	gftools fix-hinting $vf;
-	mv "$vf.fix" $vf;
+  gftools fix-hinting $font
+  mv $font.fix $font;
 done
-for ttf in $ttfs
-do
-	gftools fix-hinting $ttf;
-	mv "$ttf.fix" $ttf;
-done
+
