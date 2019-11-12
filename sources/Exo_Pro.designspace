@@ -19,11 +19,6 @@
         <dimension name="Weight" xvalue="24"/>
       </location>
     </source>
-    <source filename="Exo2-Old_Default.ufo" name="Exo2 Old_Default" familyname="Exo2" stylename="Old_Default">
-      <location>
-        <dimension name="Weight" xvalue="109"/>
-      </location>
-    </source>
     <source filename="Exo2-Regular.ufo" name="Exo2 Regular" familyname="Exo2" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
@@ -58,7 +53,7 @@
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
           <key>com.schriftgestaltung.weight</key>
-          <string>UltraLight</string>
+          <string>Thin</string>
           <key>com.schriftgestaltung.width</key>
           <string>Medium (normal)</string>
         </dict>
@@ -84,7 +79,7 @@
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
           <key>com.schriftgestaltung.weight</key>
-          <string>Light</string>
+          <string>ExtraLight</string>
           <key>com.schriftgestaltung.width</key>
           <string>Medium (normal)</string>
         </dict>
@@ -152,10 +147,10 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
-            <real>0.52174</real>
+            <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
+            <real>0.09375</real>
             <key>DB82AE46-9E91-4728-8B1E-D34291E5A7BF</key>
-            <real>0.47826</real>
+            <real>0.90625</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -178,10 +173,10 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
-            <real>0.86667</real>
             <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
-            <real>0.13333</real>
+            <real>0.28906</real>
+            <key>DB82AE46-9E91-4728-8B1E-D34291E5A7BF</key>
+            <real>0.71094</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -204,10 +199,10 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
-            <real>0.60952</real>
             <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
-            <real>0.39048</real>
+            <real>0.5</real>
+            <key>DB82AE46-9E91-4728-8B1E-D34291E5A7BF</key>
+            <real>0.5</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -230,10 +225,10 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>77EC9CE6-E33A-4866-9665-0506F15B57B2</key>
-            <real>0.27619</real>
             <key>924B7471-43FB-4CAD-AF7E-45215B64D997</key>
-            <real>0.72381</real>
+            <real>0.77344</real>
+            <key>DB82AE46-9E91-4728-8B1E-D34291E5A7BF</key>
+            <real>0.22656</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>

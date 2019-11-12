@@ -7,9 +7,9 @@
       <key>com.schriftgestaltung.layerId</key>
       <string>6AADA985-002E-42A0-AB8F-B1789970C019</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.Chekhakassian-cy</key>
-      <integer>3</integer>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Dzeabkhasian-cy</key>
-      <integer>4</integer>
+      <integer>2</integer>
     </dict>
   </dict>
 </plist>

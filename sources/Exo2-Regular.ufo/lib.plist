@@ -33,7 +33,7 @@
     <key>com.schriftgestaltung.fontMasterID</key>
     <string>DB82AE46-9E91-4728-8B1E-D34291E5A7BF</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>2</integer>
+    <integer>1</integer>
     <key>com.schriftgestaltung.glyphOrder</key>
     <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>

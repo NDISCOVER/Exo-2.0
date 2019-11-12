@@ -7,9 +7,9 @@
       <key>com.schriftgestaltung.layerId</key>
       <string>0F9AD92D-E621-4EC1-BD15-CDB7D539271D</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.euro</key>
-      <integer>4</integer>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.yen</key>
-      <integer>4</integer>
+      <integer>2</integer>
     </dict>
   </dict>
 </plist>
