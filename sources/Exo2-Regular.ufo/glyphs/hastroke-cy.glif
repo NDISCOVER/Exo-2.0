@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="531.25882"/>
+  <unicode hex="04FF"/>
+  <outline>
+    <contour>
+      <point x="467" y="281" type="line"/>
+      <point x="65" y="281" type="line"/>
+      <point x="65" y="224" type="line"/>
+      <point x="467" y="224" type="line"/>
+    </contour>
+    <component base="ha-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

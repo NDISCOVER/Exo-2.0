@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="785"/>
+  <unicode hex="01AF"/>
+  <anchor x="353" y="-12" name="bottom"/>
+  <anchor x="353" y="735" name="top"/>
+  <outline>
+    <contour>
+      <point x="658" y="690" type="line"/>
+      <point x="441" y="690" type="line"/>
+      <point x="441" y="285" type="line" smooth="yes"/>
+      <point x="441" y="174"/>
+      <point x="422" y="147"/>
+      <point x="353" y="147" type="curve" smooth="yes"/>
+      <point x="283" y="147"/>
+      <point x="264" y="174"/>
+      <point x="264" y="285" type="curve" smooth="yes"/>
+      <point x="264" y="690" type="line"/>
+      <point x="47" y="690" type="line"/>
+      <point x="47" y="285" type="line" smooth="yes"/>
+      <point x="47" y="65"/>
+      <point x="131" y="-14"/>
+      <point x="364" y="-14" type="curve" smooth="yes"/>
+      <point x="580" y="-14"/>
+      <point x="658" y="65"/>
+      <point x="658" y="285" type="curve" smooth="yes"/>
+    </contour>
+    <component base="horncomb" xOffset="888" yOffset="185"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

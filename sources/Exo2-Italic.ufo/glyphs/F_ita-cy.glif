@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fita-cy" format="2">
+  <advance width="665.83529"/>
+  <unicode hex="0472"/>
+  <outline>
+    <contour>
+      <point x="127" y="315" type="line"/>
+      <point x="541" y="315" type="line"/>
+      <point x="541" y="383" type="line"/>
+      <point x="127" y="383" type="line"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

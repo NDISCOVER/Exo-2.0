@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraitstroke-cy" format="2">
+  <advance width="552.85882"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="484" y="275" type="line"/>
+      <point x="96" y="275" type="line"/>
+      <point x="96" y="223" type="line"/>
+      <point x="484" y="223" type="line"/>
+    </contour>
+    <component base="Ustrait-cy" xOffset="4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

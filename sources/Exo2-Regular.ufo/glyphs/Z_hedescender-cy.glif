@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender-cy" format="2">
+  <advance width="928.45882"/>
+  <unicode hex="0496"/>
+  <outline>
+    <contour>
+      <point x="922" y="72" type="line"/>
+      <point x="794" y="72" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="922" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="922" y="7" type="line"/>
+      <point x="853" y="7" type="line"/>
+      <point x="862" y="-151" type="line"/>
+      <point x="922" y="-151" type="line"/>
+    </contour>
+    <component base="Zhe-cy" xOffset="-7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender-cy" format="2">
+  <advance width="687.94118"/>
+  <unicode hex="04A2"/>
+  <outline>
+    <contour>
+      <point x="668" y="72" type="line"/>
+      <point x="497" y="72" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="668" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="668" y="7" type="line"/>
+      <point x="599" y="7" type="line"/>
+      <point x="608" y="-151" type="line"/>
+      <point x="668" y="-151" type="line"/>
+    </contour>
+    <component base="En-cy" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

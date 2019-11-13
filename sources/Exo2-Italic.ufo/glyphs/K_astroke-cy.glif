@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="643.92941"/>
+  <unicode hex="049E"/>
+  <outline>
+    <contour>
+      <point x="51" y="558" type="line"/>
+      <point x="401" y="558" type="line"/>
+      <point x="410" y="622" type="line"/>
+      <point x="60" y="622" type="line"/>
+    </contour>
+    <component base="Ka-cy" xOffset="53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

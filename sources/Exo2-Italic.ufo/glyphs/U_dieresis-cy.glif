@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis-cy" format="2">
+  <advance width="562.17647"/>
+  <unicode hex="04F0"/>
+  <outline>
+    <component base="U-cy"/>
+    <component base="dieresis" xOffset="90" yOffset="176"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="366.62353"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="comma" xScale="0.99066" yScale="0.93362" xOffset="147" yOffset="612"/>
+    <component base="comma" xScale="0.99066" yScale="0.93362" xOffset="-6" yOffset="612"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

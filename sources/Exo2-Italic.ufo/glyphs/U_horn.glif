@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="702.01176"/>
+  <unicode hex="01AF"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="390" y="734" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="horncomb" xOffset="816" yOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

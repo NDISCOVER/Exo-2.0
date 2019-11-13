@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <advance width="567.58824"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <contour>
+      <point x="505" y="-82" type="line"/>
+      <point x="73" y="-82" type="line"/>
+      <point x="73" y="-142" type="line"/>
+      <point x="505" y="-142" type="line"/>
+    </contour>
+    <component base="dcroat"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

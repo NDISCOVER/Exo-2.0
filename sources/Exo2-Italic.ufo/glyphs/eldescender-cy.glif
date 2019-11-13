@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy" format="2">
+  <advance width="562.25882"/>
+  <unicode hex="052F"/>
+  <outline>
+    <contour>
+      <point x="519" y="68" type="line"/>
+      <point x="400" y="68" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="433" y="-144" type="line"/>
+      <point x="489" y="-144" type="line"/>
+    </contour>
+    <component base="el-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

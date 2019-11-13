@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pe-cy" format="2">
+  <advance width="668.29412"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="638" y="690" type="line"/>
+      <point x="550" y="690" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="690" type="line"/>
+      <point x="142" y="690" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="134" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="561" y="690" type="line"/>
+      <point x="223" y="690" type="line"/>
+      <point x="212" y="618" type="line"/>
+      <point x="551" y="618" type="line"/>
+    </contour>
+  </outline>
+</glyph>

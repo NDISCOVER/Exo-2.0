@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gedescender-cy" format="2">
+  <advance width="500.08235"/>
+  <unicode hex="04F6"/>
+  <outline>
+    <contour>
+      <point x="256" y="72" type="line"/>
+      <point x="85" y="72" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="7" type="line"/>
+      <point x="187" y="7" type="line"/>
+      <point x="196" y="-151" type="line"/>
+      <point x="256" y="-151" type="line"/>
+    </contour>
+    <component base="Ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

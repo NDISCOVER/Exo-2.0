@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="572.21176"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="615" y="624" type="line"/>
+      <point x="309" y="624" type="line"/>
+      <point x="302" y="576" type="line"/>
+      <point x="609" y="576" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

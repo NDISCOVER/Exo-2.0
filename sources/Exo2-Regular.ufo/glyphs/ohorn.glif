@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="579.69412"/>
+  <unicode hex="01A1"/>
+  <anchor x="282" y="-9" name="bottom"/>
+  <anchor x="284" y="550" name="top"/>
+  <outline>
+    <contour>
+      <point x="284" y="499" type="curve" smooth="yes"/>
+      <point x="117" y="499"/>
+      <point x="55" y="429"/>
+      <point x="55" y="243" type="curve" smooth="yes"/>
+      <point x="55" y="56"/>
+      <point x="117" y="-13"/>
+      <point x="284" y="-13" type="curve" smooth="yes"/>
+      <point x="452" y="-13"/>
+      <point x="513" y="56"/>
+      <point x="513" y="243" type="curve" smooth="yes"/>
+      <point x="513" y="429"/>
+      <point x="452" y="499"/>
+    </contour>
+    <contour>
+      <point x="284" y="427" type="curve" smooth="yes"/>
+      <point x="390" y="427"/>
+      <point x="425" y="385"/>
+      <point x="425" y="243" type="curve" smooth="yes"/>
+      <point x="425" y="101"/>
+      <point x="390" y="59"/>
+      <point x="284" y="59" type="curve" smooth="yes"/>
+      <point x="178" y="59"/>
+      <point x="144" y="101"/>
+      <point x="144" y="243" type="curve" smooth="yes"/>
+      <point x="144" y="385"/>
+      <point x="178" y="427"/>
+    </contour>
+    <component base="horncomb" xOffset="689" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

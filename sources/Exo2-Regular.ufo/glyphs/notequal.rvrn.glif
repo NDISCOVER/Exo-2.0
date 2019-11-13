@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.rvrn" format="2">
+  <advance width="615.72941"/>
+  <outline>
+    <contour>
+      <point x="284" y="175" type="line"/>
+      <point x="224" y="199" type="line"/>
+      <point x="158" y="40" type="line"/>
+      <point x="219" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="417" type="line"/>
+      <point x="377" y="393" type="line"/>
+      <point x="436" y="540" type="line"/>
+      <point x="376" y="561" type="line"/>
+    </contour>
+    <component base="equal" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>1,0.475,0.651,1</string>
+    </dict>
+  </lib>
+</glyph>
