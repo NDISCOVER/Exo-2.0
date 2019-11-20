@@ -13,6 +13,14 @@
       <map input="900" output="214"/>
     </axis>
   </axes>
+      <rules>
+    <rule name="bars">
+      <conditionset>
+        <condition name="Weight" minimum="92" maximum="214"/>
+      </conditionset>
+      <sub name="peso" with="peso.rvrn"/>
+    </rule>
+    </rules>
   <sources>
     <source filename="Exo2-Thin.ufo" name="Exo2 Thin" familyname="Exo2" stylename="Thin">
       <location>

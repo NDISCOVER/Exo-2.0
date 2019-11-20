@@ -13,6 +13,14 @@
       <map input="900" output="214"/>
     </axis>
   </axes>
+      <rules>
+    <rule name="bars">
+      <conditionset>
+        <condition name="Weight" minimum="92" maximum="214"/>
+      </conditionset>
+      <sub name="peso" with="peso.rvrn"/>
+    </rule>
+    </rules>
   <sources>
     <source filename="Exo2-LightItalic.ufo" name="Exo 2 Thin Italic" familyname="Exo 2" stylename="Thin Italic">
       <location>
