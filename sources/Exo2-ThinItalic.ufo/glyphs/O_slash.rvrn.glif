@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oslash.rvrn" format="2">
   <advance width="660"/>
-  <anchor x="389" y="740" name="top"/>
   <outline>
     <contour>
       <point x="156" y="28" type="line"/>

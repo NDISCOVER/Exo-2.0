@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash.rvrn" format="2">
+  <advance width="707"/>
+  <outline>
+    <contour>
+      <point x="272" y="46" type="line"/>
+      <point x="137" y="95" type="line"/>
+      <point x="84" y="-18" type="line"/>
+      <point x="219" y="-68" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="653" type="line"/>
+      <point x="585" y="595" type="line"/>
+      <point x="639" y="711" type="line"/>
+      <point x="503" y="760" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>

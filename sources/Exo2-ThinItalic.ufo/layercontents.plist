@@ -222,5 +222,25 @@
       <string>Light May 29 13, 11:13</string>
       <string>glyphs.L_ight M_ay 29 13, 11_13</string>
     </array>
+    <array>
+      <string>Nov 15 16, 16:16</string>
+      <string>glyphs.N_ov 15 16, 16_16</string>
+    </array>
+    <array>
+      <string>Nov 15 16, 16:16.background</string>
+      <string>glyphs.N_ov 15 16, 16_16.background</string>
+    </array>
+    <array>
+      <string>Nov 15 16, 10:56</string>
+      <string>glyphs.N_ov 15 16, 10_56</string>
+    </array>
+    <array>
+      <string>Nov 15 16, 10:56.background</string>
+      <string>glyphs.N_ov 15 16, 10_56.background</string>
+    </array>
+    <array>
+      <string>Nov 17 16, 16:25</string>
+      <string>glyphs.N_ov 17 16, 16_25</string>
+    </array>
   </array>
 </plist>

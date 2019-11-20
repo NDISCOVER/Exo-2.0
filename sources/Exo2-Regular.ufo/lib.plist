@@ -1095,6 +1095,9 @@
       <string>won.rvrn</string>
       <string>yen.rvrn</string>
       <string>notequal.rvrn</string>
+      <string>Oslashacute.rvrn</string>
+      <string>oslashacute.rvrn</string>
+      <string>Oslash.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

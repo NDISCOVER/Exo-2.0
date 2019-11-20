@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash.rvrn" format="2">
-  <advance width="568.02353"/>
+  <advance width="568"/>
   <anchor x="286" y="550" name="top"/>
   <outline>
     <contour>
       <point x="203" y="14" type="line"/>
-      <point x="153" y="40" type="line"/>
-      <point x="115" y="-38" type="line"/>
+      <point x="143" y="40" type="line"/>
+      <point x="105" y="-38" type="line"/>
       <point x="165" y="-65" type="line"/>
     </contour>
     <contour>

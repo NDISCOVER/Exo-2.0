@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute.rvrn" format="2">
+  <advance width="668"/>
+  <outline>
+    <contour>
+      <point x="483" y="760" type="line"/>
+      <point x="433" y="653" type="line"/>
+      <point x="495" y="610" type="line"/>
+      <point x="549" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="85" type="line"/>
+      <point x="114" y="-28" type="line"/>
+      <point x="179" y="-63" type="line"/>
+      <point x="232" y="51" type="line"/>
+    </contour>
+    <component base="O"/>
+    <component base="acutecomb" xOffset="567" yOffset="197"/>
+  </outline>
+</glyph>
