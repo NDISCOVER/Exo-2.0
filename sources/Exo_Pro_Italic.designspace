@@ -18,7 +18,24 @@
       <conditionset>
         <condition name="Weight" minimum="92" maximum="214"/>
       </conditionset>
-      <sub name="peso" with="peso.rvrn"/>
+
+
+<sub name="eth" with="eth.rvrn"/>
+<sub name="dollar" with="dollar.rvrn"/>
+<sub name="oslash" with="oslash.rvrn"/>
+<sub name="cent" with="cent.rvrn"/>
+<sub name="euro" with="euro.rvrn"/>
+<sub name="naira" with="naira.rvrn"/>
+<sub name="peseta" with="peseta.rvrn"/>
+<sub name="peso" with="peso.rvrn"/>
+<sub name="won" with="won.rvrn"/>
+<sub name="yen" with="yen.rvrn"/>
+<sub name="notequal" with="notequal.rvrn"/>
+<sub name="Oslash" with="Oslash.rvrn"/>
+
+
+
+
     </rule>
     </rules>
   <sources>
