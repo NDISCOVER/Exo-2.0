@@ -22,7 +22,7 @@
     </rule>
     </rules>
   <sources>
-    <source filename="Exo2-LightItalic.ufo" name="Exo 2 Thin Italic" familyname="Exo 2" stylename="Thin Italic">
+    <source filename="Exo2-ThinItalic.ufo" name="Exo 2 Thin Italic" familyname="Exo 2" stylename="Thin Italic">
       <location>
         <dimension name="Weight" xvalue="24"/>
       </location>
@@ -36,7 +36,7 @@
         <dimension name="Weight" xvalue="86"/>
       </location>
     </source>
-    <source filename="Exo2-BoldItalic.ufo" name="Exo 2 Black Italic" familyname="Exo 2" stylename="Black Italic">
+    <source filename="Exo2-BlackItalic.ufo" name="Exo 2 Black Italic" familyname="Exo 2" stylename="Black Italic">
       <location>
         <dimension name="Weight" xvalue="214"/>
       </location>
