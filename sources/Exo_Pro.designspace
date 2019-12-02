@@ -22,7 +22,7 @@
 
 <sub name="eth" with="eth.rvrn"/>
 <sub name="dollar" with="dollar.rvrn"/>
-<sub name="oslash" with="oslash.rvrn"/>
+
 <sub name="cent" with="cent.rvrn"/>
 <sub name="euro" with="euro.rvrn"/>
 <sub name="naira" with="naira.rvrn"/>
@@ -31,7 +31,10 @@
 <sub name="won" with="won.rvrn"/>
 <sub name="yen" with="yen.rvrn"/>
 <sub name="notequal" with="notequal.rvrn"/>
-
+<sub name="Oslash" with="Oslash.rvrn"/>
+<sub name="Oslashacute" with="Oslashacute.rvrn"/>
+<sub name="oslash" with="oslash.rvrn"/>
+<sub name="oslashacute" with="oslashacute.rvrn"/>
 
     </rule>
     </rules>

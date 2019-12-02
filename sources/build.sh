@@ -54,27 +54,27 @@ done
 
 
 
-# echo "Generating Static fonts"
-# mkdir -p ../fonts
-# fontmake -m Exo_Pro.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Exo_Pro.designspace -i -o otf --output-dir ../fonts/otf/
-# fontmake -m Exo_Pro_Italic.designspace -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Exo_Pro_Italic.designspace -o otf --output-dir ../fonts/otf/
+echo "Generating Static fonts"
+mkdir -p ../fonts
+fontmake -m Exo_Pro.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m Exo_Pro.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Exo_Pro_Italic.designspace -o ttf --output-dir ../fonts/ttf/
+fontmake -m Exo_Pro_Italic.designspace -o otf --output-dir ../fonts/otf/
 
-# echo "Post processing"
-# ttfs=$(ls ../fonts/ttf/*.ttf)
-# for ttf in $ttfs
-# do
-# 	gftools fix-dsig -f $ttf;
-# 	ttfautohint $ttf "$ttf.fix";
-# 	mv "$ttf.fix" $ttf;
-# done
+echo "Post processing"
+ttfs=$(ls ../fonts/ttf/*.ttf)
+for ttf in $ttfs
+do
+	gftools fix-dsig -f $ttf;
+	ttfautohint $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
+done
 
-# for ttf in $ttfs
-# do
-# 	gftools fix-hinting $ttf;
-# 	#mv "$ttf.fix" $ttf;
-# done
+for ttf in $ttfs
+do
+	gftools fix-hinting $ttf;
+	#mv "$ttf.fix" $ttf;
+done
 
-
+rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
