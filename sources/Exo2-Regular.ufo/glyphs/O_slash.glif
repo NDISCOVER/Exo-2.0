@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oslash" format="2">
-  <advance width="667.83529"/>
+  <advance width="668"/>
   <unicode hex="00D8"/>
-  <anchor x="327" y="0" name="bottom"/>
   <anchor x="331" y="734" name="top"/>
   <outline>
     <contour>

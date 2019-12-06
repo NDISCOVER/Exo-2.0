@@ -46,6 +46,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -1077,6 +1079,8 @@
       <string>yen.rvrn</string>
       <string>notequal.rvrn</string>
       <string>Oslash.rvrn</string>
+      <string>oslashacute.rvrn</string>
+      <string>Oslashacute.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
