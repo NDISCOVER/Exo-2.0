@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emtail-cy" format="2">
+  <advance width="755.01176"/>
+  <unicode hex="04CE"/>
+  <outline>
+    <contour>
+      <point x="609" y="71" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="681" y="0" type="line"/>
+      <point x="643" y="-144" type="line"/>
+      <point x="704" y="-144" type="line"/>
+      <point x="751" y="0" type="line"/>
+      <point x="751" y="71" type="line"/>
+    </contour>
+    <component base="em-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

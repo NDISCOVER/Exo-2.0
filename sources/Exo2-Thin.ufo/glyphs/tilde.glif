@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="399"/>
+  <unicode hex="02DC"/>
+  <anchor x="200" y="561" name="_top"/>
+  <outline>
+    <contour>
+      <point x="130" y="687" type="curve" smooth="yes"/>
+      <point x="83" y="691"/>
+      <point x="53" y="659"/>
+      <point x="55" y="598" type="curve"/>
+      <point x="72" y="598" type="line"/>
+      <point x="72" y="647"/>
+      <point x="89" y="669"/>
+      <point x="130" y="665" type="curve" smooth="yes"/>
+      <point x="180" y="660"/>
+      <point x="203" y="603"/>
+      <point x="270" y="597" type="curve" smooth="yes"/>
+      <point x="317" y="593"/>
+      <point x="347" y="624"/>
+      <point x="345" y="682" type="curve"/>
+      <point x="328" y="682" type="line"/>
+      <point x="328" y="635"/>
+      <point x="311" y="616"/>
+      <point x="270" y="619" type="curve" smooth="yes"/>
+      <point x="211" y="623"/>
+      <point x="189" y="682"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.annotations</key>
+      <array>
+        <dict>
+          <key>position</key>
+          <array>
+            <integer>-2147483648</integer>
+            <integer>678</integer>
+          </array>
+          <key>type</key>
+          <string>Plus</string>
+          <key>width</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

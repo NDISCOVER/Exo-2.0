@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="609.52941"/>
+  <unicode hex="048B"/>
+  <outline>
+    <contour>
+      <point x="431" y="64" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="474" y="-144" type="line"/>
+      <point x="531" y="-144" type="line"/>
+      <point x="578" y="1" type="line"/>
+      <point x="578" y="64" type="line"/>
+    </contour>
+    <component base="iishort-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

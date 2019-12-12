@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexdotbelow" format="2">
+  <advance width="558.21176"/>
+  <unicode hex="1EC6"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb" xOffset="435"/>
+    <component base="circumflexcomb" xOffset="545" yOffset="204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

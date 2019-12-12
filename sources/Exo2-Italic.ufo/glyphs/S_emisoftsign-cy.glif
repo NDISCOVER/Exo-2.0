@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Semisoftsign-cy" format="2">
+  <advance width="625.52941"/>
+  <unicode hex="048C"/>
+  <outline>
+    <contour>
+      <point x="48" y="513" type="line"/>
+      <point x="491" y="513" type="line"/>
+      <point x="501" y="578" type="line"/>
+      <point x="58" y="578" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

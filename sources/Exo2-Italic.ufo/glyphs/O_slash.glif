@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="665.83529"/>
+  <unicode hex="00D8"/>
+  <anchor x="390" y="734" name="top"/>
+  <outline>
+    <contour>
+      <point x="560" y="753" type="line"/>
+      <point x="82" y="-35" type="line"/>
+      <point x="123" y="-60" type="line"/>
+      <point x="602" y="729" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

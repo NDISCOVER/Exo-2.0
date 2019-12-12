@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eltail-cy" format="2">
+  <advance width="655.61176"/>
+  <unicode hex="04C5"/>
+  <outline>
+    <contour>
+      <point x="438" y="72" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="467" y="-151" type="line"/>
+      <point x="527" y="-151" type="line"/>
+      <point x="595" y="1" type="line"/>
+      <point x="605" y="72" type="line"/>
+    </contour>
+    <component base="El-cy" xOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

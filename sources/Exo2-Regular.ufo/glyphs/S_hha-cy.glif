@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shha-cy" format="2">
+  <advance width="612.85882"/>
+  <unicode hex="04BA"/>
+  <outline>
+    <contour>
+      <point x="408" y="439" type="curve" smooth="yes"/>
+      <point x="340" y="439"/>
+      <point x="239" y="419"/>
+      <point x="154" y="368" type="curve"/>
+      <point x="161" y="302" type="line"/>
+      <point x="246" y="347"/>
+      <point x="307" y="362"/>
+      <point x="378" y="362" type="curve" smooth="yes"/>
+      <point x="450" y="362"/>
+      <point x="479" y="333"/>
+      <point x="478" y="265" type="curve" smooth="yes"/>
+      <point x="478" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="566" y="283" type="line" smooth="yes"/>
+      <point x="566" y="389"/>
+      <point x="515" y="439"/>
+    </contour>
+    <contour>
+      <point x="175" y="690" type="line"/>
+      <point x="87" y="690" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

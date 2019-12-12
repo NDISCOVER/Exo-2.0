@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustrait-cy" format="2">
+  <advance width="541"/>
+  <unicode hex="04AE"/>
+  <outline>
+    <contour>
+      <point x="518" y="690" type="line"/>
+      <point x="490" y="690" type="line"/>
+      <point x="310" y="356" type="line" smooth="yes"/>
+      <point x="299" y="335"/>
+      <point x="285" y="311"/>
+      <point x="273" y="289" type="curve"/>
+      <point x="268" y="289" type="line"/>
+      <point x="255" y="311"/>
+      <point x="242" y="335"/>
+      <point x="230" y="357" type="curve" smooth="yes"/>
+      <point x="50" y="690" type="line"/>
+      <point x="22" y="690" type="line"/>
+      <point x="262" y="250" type="line"/>
+      <point x="279" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="281" type="line"/>
+      <point x="258" y="281" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy" format="2">
+  <advance width="568.02353"/>
+  <unicode hex="04E9"/>
+  <anchor x="328" y="554" name="top"/>
+  <outline>
+    <contour>
+      <point x="87" y="224" type="line"/>
+      <point x="472" y="224" type="line"/>
+      <point x="472" y="279" type="line"/>
+      <point x="87" y="279" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

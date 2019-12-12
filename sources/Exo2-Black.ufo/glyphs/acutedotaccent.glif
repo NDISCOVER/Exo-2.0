@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotaccent" format="2">
+  <advance width="392"/>
+  <anchor x="142" y="526" name="_top"/>
+  <outline>
+    <contour>
+      <point x="190" y="901" type="curve" smooth="yes"/>
+      <point x="133" y="901" type="line" smooth="yes"/>
+      <point x="96" y="901"/>
+      <point x="79" y="884"/>
+      <point x="79" y="849" type="curve" smooth="yes"/>
+      <point x="79" y="806" type="line" smooth="yes"/>
+      <point x="79" y="772"/>
+      <point x="96" y="754"/>
+      <point x="133" y="754" type="curve" smooth="yes"/>
+      <point x="190" y="754" type="line" smooth="yes"/>
+      <point x="227" y="754"/>
+      <point x="244" y="774"/>
+      <point x="244" y="806" type="curve" smooth="yes"/>
+      <point x="244" y="849" type="line" smooth="yes"/>
+      <point x="244" y="884"/>
+      <point x="227" y="901"/>
+    </contour>
+    <contour>
+      <point x="233" y="740" type="line"/>
+      <point x="18" y="599" type="line"/>
+      <point x="73" y="517" type="line"/>
+      <point x="309" y="614" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Entail-cy" format="2">
+  <advance width="657"/>
+  <unicode hex="04C9"/>
+  <outline>
+    <contour>
+      <point x="628" y="3" type="line"/>
+      <point x="628" y="22" type="line"/>
+      <point x="529" y="22" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="543" y="-151" type="line"/>
+      <point x="562" y="-151" type="line"/>
+    </contour>
+    <component base="En-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

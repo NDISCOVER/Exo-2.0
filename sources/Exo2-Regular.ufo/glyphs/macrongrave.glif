@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongrave" format="2">
+  <advance width="400"/>
+  <anchor x="200" y="545" name="_top"/>
+  <outline>
+    <contour>
+      <point x="61" y="645" type="line"/>
+      <point x="61" y="582" type="line"/>
+      <point x="339" y="582" type="line"/>
+      <point x="339" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="824" type="line"/>
+      <point x="103" y="765" type="line"/>
+      <point x="236" y="675" type="line"/>
+      <point x="266" y="709" type="line"/>
+    </contour>
+  </outline>
+</glyph>

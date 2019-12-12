@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance width="795"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="400" y="690" type="line"/>
+      <point x="-10" y="690" type="line"/>
+      <point x="-10" y="528" type="line"/>
+      <point x="400" y="528" type="line"/>
+    </contour>
+    <component base="Ka-cy" xOffset="127"/>
+  </outline>
+</glyph>

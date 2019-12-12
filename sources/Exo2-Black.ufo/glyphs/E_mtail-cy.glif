@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emtail-cy" format="2">
+  <advance width="987"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <contour>
+      <point x="718" y="142" type="line"/>
+      <point x="718" y="0" type="line"/>
+      <point x="838" y="0" type="line"/>
+      <point x="824" y="-151" type="line"/>
+      <point x="981" y="-151" type="line"/>
+      <point x="1011" y="0" type="line"/>
+      <point x="1011" y="142" type="line"/>
+    </contour>
+    <component base="Em-cy" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
+</glyph>

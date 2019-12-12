@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shhadescender-cy" format="2">
+  <advance width="658.8"/>
+  <unicode hex="0526"/>
+  <outline>
+    <contour>
+      <point x="625" y="72" type="line"/>
+      <point x="457" y="72" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="616" y="7" type="line"/>
+      <point x="547" y="7" type="line"/>
+      <point x="534" y="-151" type="line"/>
+      <point x="594" y="-151" type="line"/>
+    </contour>
+    <component base="Shha-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

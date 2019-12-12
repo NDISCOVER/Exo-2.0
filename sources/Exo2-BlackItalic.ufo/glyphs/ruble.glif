@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="618"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="370" y="700" type="curve" smooth="yes"/>
+      <point x="287" y="700"/>
+      <point x="227" y="699"/>
+      <point x="137" y="690" type="curve"/>
+      <point x="139" y="541" type="line"/>
+      <point x="172" y="545"/>
+      <point x="273" y="547"/>
+      <point x="365" y="547" type="curve" smooth="yes"/>
+      <point x="414" y="547"/>
+      <point x="423" y="529"/>
+      <point x="415" y="473" type="curve" smooth="yes"/>
+      <point x="403" y="392"/>
+      <point x="388" y="385"/>
+      <point x="337" y="385" type="curve" smooth="yes"/>
+      <point x="293" y="385"/>
+      <point x="118" y="385"/>
+      <point x="28" y="385" type="curve"/>
+      <point x="11" y="259" type="line"/>
+      <point x="80" y="237"/>
+      <point x="256" y="232"/>
+      <point x="356" y="232" type="curve" smooth="yes"/>
+      <point x="537" y="232"/>
+      <point x="605" y="279"/>
+      <point x="629" y="457" type="curve" smooth="yes"/>
+      <point x="654" y="645"/>
+      <point x="581" y="700"/>
+    </contour>
+    <contour>
+      <point x="353" y="690" type="line"/>
+      <point x="137" y="690" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-3" y="170" type="line"/>
+      <point x="-15" y="83" type="line"/>
+      <point x="458" y="83" type="line"/>
+      <point x="475" y="170" type="line"/>
+    </contour>
+  </outline>
+</glyph>
