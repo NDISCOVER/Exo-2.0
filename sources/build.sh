@@ -1,5 +1,5 @@
-#!/bin/sh
-set -e
+# #!/bin/sh
+# set -e
 
 
 
@@ -58,8 +58,8 @@ echo "Generating Static fonts"
 mkdir -p ../fonts
 fontmake -m Exo_Pro.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m Exo_Pro.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m Exo_Pro_Italic.designspace -o ttf --output-dir ../fonts/ttf/
-fontmake -m Exo_Pro_Italic.designspace -o otf --output-dir ../fonts/otf/
+fontmake -m Exo_Pro_Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m Exo_Pro_Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Post processing"
 ttfs=$(ls ../fonts/ttf/*.ttf)
@@ -75,6 +75,16 @@ do
 	gftools fix-hinting $ttf;
 	#mv "$ttf.fix" $ttf;
 done
+
+echo "Fix DSIG in OTFs"
+otfs=$(ls ../fonts/otf/*.otf)
+for otf in $otfs
+do
+	gftools fix-dsig -f $otf;
+
+done
+
+
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
