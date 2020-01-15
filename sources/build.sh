@@ -1,6 +1,6 @@
 # #!/bin/sh
 # set -e
-
+alias ttfautohint="python3 -m ttfautohint"
 
 
 echo "Generating VFs"
