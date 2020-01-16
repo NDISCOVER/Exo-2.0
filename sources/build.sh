@@ -1,5 +1,14 @@
 # #!/bin/sh
-# set -e
+# Exist on first fail
+set -e
+
+# Go the sources directory to run commands
+SOURCE="${BASH_SOURCE[0]}"
+DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
+cd $DIR
+echo $(pwd)
+
+# Use ttfauthint-py
 alias ttfautohint="python3 -m ttfautohint"
 
 
