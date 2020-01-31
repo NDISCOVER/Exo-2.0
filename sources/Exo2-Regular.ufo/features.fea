@@ -20,8 +20,8 @@ feature aalt {
 # automatic
 feature ccmp;
 feature locl;
-feature subs;
 feature sinf;
+feature subs;
 feature sups;
 feature numr;
 feature dnom;

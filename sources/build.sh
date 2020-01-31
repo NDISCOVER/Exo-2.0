@@ -82,7 +82,7 @@ done
 for ttf in $ttfs
 do
 	gftools fix-hinting $ttf;
-	#mv "$ttf.fix" $ttf;
+	mv "$ttf.fix" $ttf;
 done
 
 echo "Fix DSIG in OTFs"
