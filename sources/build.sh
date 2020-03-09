@@ -27,8 +27,6 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	ttfautohint --stem-width-mode nnn $vf "$vf.fix";
-	mv "$vf.fix" $vf;
 done
 
 
@@ -56,7 +54,7 @@ echo "Fixing Hinting"
 FONTSVF=$(ls ../fonts/vf/*.ttf)
 for font in $FONTSVF
 do
-  gftools fix-hinting $font
+  gftools fix-nonhinting $font $font.fix
   mv $font.fix $font;
 done
 
@@ -75,13 +73,11 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
 done
 
 for ttf in $ttfs
 do
-	gftools fix-hinting $ttf;
+	gftools fix-nonhinting $ttf $ttf.fix;
 	mv "$ttf.fix" $ttf;
 done
 
@@ -96,4 +92,5 @@ done
 
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
-
+rm ../fonts/vf/*gasp.ttf
+rm ../fonts/ttf/*gasp.ttf
