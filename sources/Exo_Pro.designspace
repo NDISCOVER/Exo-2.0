@@ -6,8 +6,8 @@
       <map input="200" output="40"/>
       <map input="300" output="64"/>
       <map input="400" output="86"/>
-      <map input="500" output="98"/>
-      <map input="600" output="123"/>
+      <map input="500" output="98"/> 
+      <map input="600" output="123"/> 
       <map input="700" output="150"/>
       <map input="800" output="185"/>
       <map input="900" output="214"/>
@@ -16,7 +16,7 @@
       <rules>
     <rule name="bars">
       <conditionset>
-        <condition name="Weight" minimum="92" maximum="214"/>
+        <condition name="Weight" minimum="136" maximum="214"/>
       </conditionset>
 
 
@@ -39,12 +39,12 @@
     </rule>
     </rules>
   <sources>
-    <source filename="Exo2-Thin.ufo" name="Exo2 Thin" familyname="Exo2" stylename="Thin">
+    <source filename="Exo2-Thin.ufo" name="Exo 2 Thin" familyname="Exo 2" stylename="Thin">
       <location>
         <dimension name="Weight" xvalue="24"/>
       </location>
     </source>
-    <source filename="Exo2-Regular.ufo" name="Exo2 Regular" familyname="Exo2" stylename="Regular">
+    <source filename="Exo2-Regular.ufo" name="Exo 2 Regular" familyname="Exo 2" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -53,7 +53,7 @@
         <dimension name="Weight" xvalue="86"/>
       </location>
     </source>
-    <source filename="Exo2-Black.ufo" name="Exo2 Black" familyname="Exo2" stylename="Black">
+    <source filename="Exo2-Black.ufo" name="Exo 2 Black" familyname="Exo 2" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="214"/>
       </location>
