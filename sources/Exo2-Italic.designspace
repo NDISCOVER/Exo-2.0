@@ -85,7 +85,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Exo 2 ExtraLight Italic" familyname="Exo 2" stylename="ExtraLight Italic" filename="instance_ufos/Exo2-ExtraLightItalic.ufo" stylemapfamilyname="Exo 2 Extra Light" stylemapstylename="italic">
+    <instance name="Exo 2 ExtraLight Italic" familyname="Exo 2" stylename="ExtraLight Italic" filename="instance_ufos/Exo2-ExtraLightItalic.ufo" stylemapfamilyname="Exo 2 ExtraLight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="40"/>
       </location>
@@ -187,7 +187,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Exo 2 SemiBold Italic" familyname="Exo 2" stylename="SemiBold Italic" filename="instance_ufos/Exo2-SemiBoldItalic.ufo" stylemapfamilyname="Exo 2 Semi Bold" stylemapstylename="italic">
+    <instance name="Exo 2 SemiBold Italic" familyname="Exo 2" stylename="SemiBold Italic" filename="instance_ufos/Exo2-SemiBoldItalic.ufo" stylemapfamilyname="Exo 2 SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="123"/>
       </location>
@@ -239,7 +239,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Exo 2 ExtraBold Italic" familyname="Exo 2" stylename="ExtraBold Italic" filename="instance_ufos/Exo2-ExtraBoldItalic.ufo" stylemapfamilyname="Exo 2 Extra Bold" stylemapstylename="italic">
+    <instance name="Exo 2 ExtraBold Italic" familyname="Exo 2" stylename="ExtraBold Italic" filename="instance_ufos/Exo2-ExtraBoldItalic.ufo" stylemapfamilyname="Exo 2 ExtraBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="185"/>
       </location>
