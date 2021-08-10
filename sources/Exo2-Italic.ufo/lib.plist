@@ -48,6 +48,8 @@
     <integer>100</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4703816336</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
