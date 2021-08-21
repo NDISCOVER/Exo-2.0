@@ -28,7 +28,7 @@ glyphsLib==5.1.2
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.11.3
-lxml==4.4.2
+lxml==4.6.3
 MarkupSafe==1.1.1
 opentype-sanitizer==8.0.0.post2
 Pillow==7.0.0
